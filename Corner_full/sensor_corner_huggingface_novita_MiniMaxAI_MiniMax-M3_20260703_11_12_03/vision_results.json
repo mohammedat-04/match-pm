@@ -1,0 +1,14 @@
+{
+    "vision_result": "pm_vision_interfaces.msg.VisionResponse(vision_ok=True, process_name='sensor_corner_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_12_03.json', process_uid='CoPilotVision', exec_timestamp='03_07_2026_11_13_57', cross_validation=pm_vision_interfaces.msg.CrossValidation(image_source_name='', vision_ok=False, failed_images=[], numb_images=0, counter_error=0), results=pm_vision_interfaces.msg.VisionResults(points=[pm_vision_interfaces.msg.VisionPoint(axis_value_1=-136.11340181228852, axis_value_2=-307.4765585476885, axis_suffix_1='x', axis_suffix_2='y')], lines=[], areas=[], circles=[], saved_images=[], image_sharpness=pm_vision_interfaces.msg.ImageSharpness(sharpness_value=0.0)))",
+    "quality_score": {
+        "cornerDetectionSubPixel": {
+            "line1": 5,
+            "line2": 1,
+            "residual_score": 0,
+            "inlier_score": 100,
+            "weakest_score_action": "s",
+            "angle_degrees": 90
+        }
+    },
+    "process_debug": []
+}
