@@ -1,0 +1,5 @@
+{
+    "vision_result": "pm_vision_interfaces.msg.VisionResponse(vision_ok=True, process_name='vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260707_12_46_20.json', process_uid='CoPilotVision', exec_timestamp='07_07_2026_12_47_50', cross_validation=pm_vision_interfaces.msg.CrossValidation(image_source_name='', vision_ok=False, failed_images=[], numb_images=0, counter_error=0), results=pm_vision_interfaces.msg.VisionResults(points=[], lines=[], areas=[], circles=[pm_vision_interfaces.msg.VisionCircle(center_point=pm_vision_interfaces.msg.VisionPoint(axis_value_1=3.115243466303721, axis_value_2=265.2009545311444, axis_suffix_1='x', axis_suffix_2='y'), radius=786.2274852145197)], saved_images=[], image_sharpness=pm_vision_interfaces.msg.ImageSharpness(sharpness_value=0.0)))",
+    "quality_score": {},
+    "process_debug": []
+}

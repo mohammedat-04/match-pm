@@ -1,0 +1,5 @@
+{
+    "vision_result": "pm_vision_interfaces.msg.VisionResponse(vision_ok=True, process_name='vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260707_11_40_31.json', process_uid='CoPilotVision', exec_timestamp='07_07_2026_11_42_22', cross_validation=pm_vision_interfaces.msg.CrossValidation(image_source_name='', vision_ok=False, failed_images=[], numb_images=0, counter_error=0), results=pm_vision_interfaces.msg.VisionResults(points=[], lines=[], areas=[], circles=[pm_vision_interfaces.msg.VisionCircle(center_point=pm_vision_interfaces.msg.VisionPoint(axis_value_1=14.936796841546716, axis_value_2=223.39522835061598, axis_suffix_1='x', axis_suffix_2='y'), radius=508.67288363274264)], saved_images=[], image_sharpness=pm_vision_interfaces.msg.ImageSharpness(sharpness_value=0.0)))",
+    "quality_score": {},
+    "process_debug": []
+}
