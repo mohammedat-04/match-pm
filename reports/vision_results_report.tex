@@ -1,0 +1,249 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[margin=2.2cm]{geometry}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{hyperref}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+\title{Vision Detection Experiment Report}
+\author{Generated from the Numbers workbook}
+\date{July 7, 2026}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+This report summarizes the current vision-detection results from the Numbers workbook \texttt{Untitled.numbers}. The workbook contains vacuum-gripper circle-localization experiments and sensor-corner localization experiments. All success calculations use the updated tolerance of \(\pm 6\) px. The report keeps the original source labels from the workbook where useful, including the folder spelling \texttt{new promt}.
+\end{abstract}
+
+\section{Data Source}
+
+The report is based on three workbook sheets:
+
+\begin{itemize}
+  \item \textbf{Vision Results}: original vacuum-gripper full-specification and name-only prompt experiments.
+  \item \textbf{New results}: new prompt vacuum-gripper experiments.
+  \item \textbf{Corner full}: sensor-corner experiments.
+\end{itemize}
+
+The workbook contains 215 evaluated runs in total: 165 vacuum-gripper runs and 50 corner runs. Because the two tasks measure different visual targets, the task groups are reported separately instead of using one combined benchmark score.
+
+\section{Evaluation Method}
+
+\subsection{Vacuum-Gripper Target}
+
+The workbook reference table gives the OpenCV Hough-circle target as:
+\[
+  x_{px}=1294,\qquad y_{px}=1038,\qquad r_{px}=221.
+\]
+The corresponding camera-coordinate reference is:
+\[
+  x=8.79,\qquad y=290.11,\qquad r=971.43.
+\]
+The scale factor used for converting camera units to pixels is:
+\[
+  s=\frac{971.43}{221}.
+\]
+For each detected circle, the converted pixel values are:
+\[
+  x_{px}=1294+\frac{8.79-x}{s},\qquad
+  y_{px}=1038+\frac{y-290.11}{s},\qquad
+  r_{px}=\frac{r}{s}.
+\]
+A vacuum-gripper run is successful only when all three converted values are within the workbook tolerance:
+\[
+  |x_{px}-1294| \leq 6,\qquad
+  |y_{px}-1038| \leq 6,\qquad
+  |r_{px}-221| \leq 6.
+\]
+If a run returns multiple circle candidates, two scoring views are useful. The baseline view checks only the selected or first circle. The updated many-result view checks every candidate and rates the run OK when at least one candidate contains the ideal circle. The run is still flagged as a many-result case.
+
+\subsection{Corner Target}
+
+The corner ground-truth point in the workbook is:
+\[
+  x_{px}=1327.25,\qquad y_{px}=902.02.
+\]
+A corner run is successful when the Euclidean pixel error is at most 6 px:
+\[
+  \sqrt{(x_{px}-1327.25)^2+(y_{px}-902.02)^2}\leq 6.
+\]
+
+\section{Overall Summary}
+
+\begin{table}[htbp]
+\centering
+\begin{tabular}{L{5.4cm}rrrr}
+\toprule
+Experiment group & Total & Detected & Succeeded & Success rate \\
+\midrule
+Original vacuum-gripper baseline & 110 & 70 & 23 & 20.9\% \\
+Original full-spec prompt & 60 & 41 & 14 & 23.3\% \\
+Original name-only prompt & 50 & 29 & 10 & 20.0\% \\
+New prompt vacuum-gripper data & 55 & 47 & 35 & 63.6\% \\
+Corner full data & 50 & 48 & 47 & 94.0\% \\
+\bottomrule
+\end{tabular}
+\caption{Summary of the workbook result groups.}
+\end{table}
+
+The original vacuum-gripper baseline was 23 successful cases out of 110 when only the selected or first circle was scored. Under the updated many-result rule, one additional name-only Google Gemma run is rated OK because candidate 2 contains the ideal circle. This changes the original vacuum-gripper total to 24 successful cases out of 110, or 21.8\%. The new prompt runs reached 35 successful cases out of 55, and the corner task remained the strongest group with 47 successful cases out of 50.
+
+\section{Original Vacuum-Gripper Results}
+
+\subsection{Full-Specification Prompt}
+
+\begin{table}[htbp]
+\centering
+\small
+\begin{tabular}{L{7.0cm}rrrr}
+\toprule
+Model & Total & Detected & Succeeded & Success rate \\
+\midrule
+Qwen Qwen3.6-35B-A3B & 10 & 9 & 6 & 60.0\% \\
+zai-org GLM-4.5V & 10 & 5 & 2 & 20.0\% \\
+google gemma-4-31B-it & 10 & 10 & 4 & 40.0\% \\
+deepinfra meta-llama Llama-4-Scout-17B-16E-Instruct & 10 & 4 & 0 & 0.0\% \\
+featherless-ai stepfun-ai Step-3.7-Flash & 10 & 3 & 2 & 20.0\% \\
+novita MiniMaxAI MiniMax-M3 & 10 & 10 & 0 & 0.0\% \\
+\midrule
+Overall & 60 & 41 & 14 & 23.3\% \\
+\bottomrule
+\end{tabular}
+\caption{Original vacuum-gripper results with the full-specification prompt.}
+\end{table}
+
+\subsection{Name-Only Prompt}
+
+\begin{table}[htbp]
+\centering
+\small
+\begin{tabular}{L{7.0cm}rrrr}
+\toprule
+Model & Total & Detected & Succeeded & Success rate \\
+\midrule
+Qwen Qwen3.6-35B-A3B & 10 & 9 & 6 & 60.0\% \\
+zai-org GLM-4.5V & 10 & 2 & 1 & 10.0\% \\
+google gemma-4-31B-it & 10 & 8 & 2 & 20.0\% \\
+featherless-ai stepfun-ai Step-3.7-Flash & 10 & 1 & 1 & 10.0\% \\
+novita MiniMaxAI MiniMax-M3 & 10 & 9 & 0 & 0.0\% \\
+\midrule
+Overall & 50 & 29 & 10 & 20.0\% \\
+\bottomrule
+\end{tabular}
+\caption{Original vacuum-gripper results with the name-only prompt.}
+\end{table}
+
+The best original vacuum-gripper result is Qwen Qwen3.6-35B-A3B, which reached 60.0\% success in both prompt styles. Detection alone was not enough for success: for example, MiniMax-M3 detected all 10 full-specification cases but none met the pixel and radius tolerance.
+
+\section{New Prompt Results}
+
+\clearpage
+\begingroup
+\small
+\setlength{\tabcolsep}{3pt}
+\begin{longtable}{L{3.0cm}L{4.5cm}rrrr}
+\toprule
+Source & Model & Total & Detected & Succeeded & Success rate \\
+\midrule
+\endfirsthead
+\toprule
+Source & Model & Total & Detected & Succeeded & Success rate \\
+\midrule
+\endhead
+new promt 1full specs & google gemma-4-31B-it & 5 & 5 & 3 & 60.0\% \\
+new promt 1full specs & novita MiniMaxAI MiniMax-M3 & 5 & 5 & 2 & 40.0\% \\
+new promt full specs & Qwen Qwen3.6-35B-A3B & 5 & 4 & 2 & 40.0\% \\
+new promt full specs & google gemma-4-31B-it & 5 & 5 & 5 & 100.0\% \\
+new promt full specs & novita moonshotai Kimi-K2.5 & 5 & 4 & 4 & 80.0\% \\
+new promt full specs & novita zai-org GLM-4.5V & 5 & 4 & 3 & 60.0\% \\
+new promt name only & Qwen Qwen3.6-35B-A3B & 5 & 4 & 3 & 60.0\% \\
+new promt name only & google gemma-4-31B-it & 5 & 5 & 5 & 100.0\% \\
+new promt name only & novita MiniMaxAI MiniMax-M3 & 5 & 2 & 0 & 0.0\% \\
+new promt1 name only & google gemma-4-31B-it & 5 & 5 & 5 & 100.0\% \\
+new promt1 name only & novita MiniMaxAI MiniMax-M3 & 5 & 4 & 3 & 60.0\% \\
+\midrule
+Overall & All & 55 & 47 & 35 & 63.6\% \\
+\bottomrule
+\caption{New prompt vacuum-gripper results.}
+\end{longtable}
+\endgroup
+
+The new prompt set improved the vacuum-gripper success rate from 21.8\% across the original vacuum-gripper workbook rows under the updated many-result rule to 63.6\%. Against the original baseline score of 20.9\%, the improvement is slightly larger. Google Gemma reached 100.0\% success in the \texttt{new promt full specs}, \texttt{new promt name only}, and \texttt{new promt1 name only} groups. Kimi-K2.5 also performed strongly, with 4 successful cases out of 5.
+
+\section{Corner Full Results}
+
+\begin{table}[ht]
+\centering
+\small
+\begin{tabular}{L{7.4cm}rrrr}
+\toprule
+Model/provider & Total & Detected & Succeeded & Success rate \\
+\midrule
+Qwen Qwen3.6-35B-A3B (auto + deepinfra) & 10 & 10 & 10 & 100.0\% \\
+deepinfra meta-llama Llama-4-Scout-17B-16E-Instruct & 10 & 10 & 10 & 100.0\% \\
+featherless-ai stepfun-ai Step-3.7-Flash & 10 & 9 & 8 & 80.0\% \\
+novita MiniMaxAI MiniMax-M3 & 10 & 9 & 9 & 90.0\% \\
+together google gemma-4-31B-it & 10 & 10 & 10 & 100.0\% \\
+\midrule
+Overall & 50 & 48 & 47 & 94.0\% \\
+\bottomrule
+\end{tabular}
+\caption{Corner full results using the 6 px tolerance.}
+\end{table}
+
+The corner task is the most reliable task in the workbook. Three model/provider groups reached 100.0\% success, and the overall success rate was 94.0\%. The failed corner cases are concentrated in two groups:
+
+\begin{itemize}
+  \item \texttt{featherless-ai stepfun-ai Step-3.7-Flash}: one run had no numeric result, and one run had a large error of 424.754 px.
+  \item \texttt{novita MiniMaxAI MiniMax-M3}: one run had no numeric result.
+\end{itemize}
+
+\section{Multi-Result Cases}
+
+\clearpage
+Seven vacuum-gripper tests returned two or more circle candidates. These were re-rated by checking whether any candidate contained the ideal circle within the \(\pm 6\) px tolerance. Five of the seven many-result cases contain a valid target circle and are therefore rated OK, but all seven remain flagged as many-result cases. This re-rating changes only one original summary count: the original name-only Google Gemma group increases from 1/10 to 2/10, so the original vacuum-gripper overall score increases from 23/110 to 24/110.
+
+\begingroup
+\scriptsize
+\setlength{\tabcolsep}{2.5pt}
+\begin{longtable}{L{5.6cm}rccrrL{2.8cm}}
+\toprule
+Case & Candidates & Ideal found & Rated OK & Selected & Max error & Note \\
+\midrule
+\endfirsthead
+\toprule
+Case & Candidates & Ideal found & Rated OK & Selected & Max error & Note \\
+\midrule
+\endhead
+Full specs / google gemma / 20260625\_12\_03\_47 & 2 & No & No & 1 & 12.217 & Many results; no ideal circle \\
+Full specs / google gemma / 20260625\_12\_20\_01 & 4 & Yes & Yes & 1 & 4.539 & Many results; ideal circle found \\
+Full specs / Step-3.7-Flash / 20260703\_11\_49\_51 & 8 & Yes & Yes & 5 & 1.653 & Many results; ideal circle found \\
+Name only / google gemma / 20260625\_12\_50\_47 & 14 & No & No & 6 & 141.916 & Many results; no ideal circle \\
+Name only / google gemma / 20260625\_12\_59\_06 & 6 & Yes & Yes & 2 & 4.200 & Many results; ideal circle found \\
+Name only / Step-3.7-Flash / 20260703\_12\_12\_59 & 5 & Yes & Yes & 2 & 2.358 & Many results; ideal circle found \\
+new promt1 name only / MiniMax-M3 / 20260707\_11\_30\_27 & 3 & Yes & Yes & 1 & 0.992 & Many results; ideal circle found \\
+\bottomrule
+\caption{Vacuum-gripper tests with multiple circle candidates. A run is rated OK when at least one candidate contains the ideal circle within the 6 px tolerance.}
+\end{longtable}
+\endgroup
+
+These cases should still be reviewed separately because multiple candidates introduce ambiguity. The updated rule accepts a run when the ideal circle is present, but it keeps the many-result flag so downstream automation can treat those outputs with caution.
+
+\section{Discussion}
+
+The results show a clear difference between the tasks. Corner localization is highly reliable under the 6 px tolerance, while vacuum-gripper circle localization depends strongly on the prompt and model. The new prompt substantially improves vacuum-gripper performance, especially for Google Gemma and Kimi-K2.5.
+
+The workbook also shows that detection rate and success rate are different measures. Some runs return numeric detections but fail because the detected circle is too far from the reference or has the wrong radius. This is visible in the original MiniMax-M3 full-specification group, which detected all 10 cases but had 0 successful cases. Multi-result cases add another distinction: a run can contain a correct circle and still need a many-result warning.
+
+\section{Conclusion}
+
+Using the updated \(\pm 6\) px tolerance and the new multi-result rule, the best current result is the corner full experiment with 94.0\% success. For the vacuum-gripper task, the new prompt data is much stronger than the original prompt data, improving from 24 successful cases out of 110 original runs to 35 successful cases out of 55 new-prompt runs. The original first-result baseline was 23/110, and the updated many-result score is 24/110. The next practical step is to keep the improved prompt style and preserve the many-result flag for runs where the correct circle is present but not uniquely detected.
+
+\end{document}
