@@ -1,0 +1,5 @@
+{
+    "vision_result": "pm_vision_interfaces.msg.VisionResponse(vision_ok=True, process_name='vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260717_10_07_45.json', process_uid='CoPilotVision', exec_timestamp='17_07_2026_10_08_00', cross_validation=pm_vision_interfaces.msg.CrossValidation(image_source_name='', vision_ok=False, failed_images=[], numb_images=0, counter_error=0), results=pm_vision_interfaces.msg.VisionResults(points=[], lines=[], areas=[], circles=[pm_vision_interfaces.msg.VisionCircle(center_point=pm_vision_interfaces.msg.VisionPoint(axis_value_1=4.301388551375374, axis_value_2=289.923573431744, axis_suffix_1='x', axis_suffix_2='y'), radius=968.9273165873816)], saved_images=[], image_sharpness=pm_vision_interfaces.msg.ImageSharpness(sharpness_value=0.0)))",
+    "quality_score": {},
+    "process_debug": []
+}

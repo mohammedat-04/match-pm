@@ -1,0 +1,36 @@
+{
+    "vision_process_name": "gripper_outer_boundary_step7",
+    "process creation": "2026-07-17 12:12:51",
+    "vision_pipeline": [
+        {
+            "BGR2GRAY": {
+                "active": true
+            }
+        },
+        {
+            "Threshold": {
+                "active": true,
+                "thresh": 40,
+                "maxval": 255,
+                "type": "THRESH_BINARY"
+            }
+        },
+        {
+            "Morphology_Ex_Opening": {
+                "active": true,
+                "kernelsize": 3
+            }
+        },
+        {
+            "CircleDetection": {
+                "active": true,
+                "minRadius": 100.0,
+                "maxRadius": 2000.0,
+                "draw_circles": true,
+                "mode": "RETR_EXTERNAL",
+                "circle_fit_mode": "standardLSQ",
+                "fit_single_circle": false
+            }
+        }
+    ]
+}

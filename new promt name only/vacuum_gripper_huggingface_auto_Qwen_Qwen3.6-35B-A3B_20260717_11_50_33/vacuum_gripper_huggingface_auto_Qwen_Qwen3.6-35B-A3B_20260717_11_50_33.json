@@ -1,0 +1,39 @@
+{
+    "vision_process_name": "vacuum_gripper_roi_v1",
+    "process creation": "2026-07-17 11:56:29",
+    "vision_pipeline": [
+        {
+            "BGR2GRAY": {
+                "active": true
+            }
+        },
+        {
+            "ROI": {
+                "active": true,
+                "ROI_center_x": 0.0,
+                "ROI_center_y": 0.0,
+                "ROI_height": 50.0,
+                "ROI_width": 50.0
+            }
+        },
+        {
+            "Threshold": {
+                "active": true,
+                "thresh": 180,
+                "maxval": 255,
+                "type": "THRESH_BINARY"
+            }
+        },
+        {
+            "CircleDetection": {
+                "active": true,
+                "minRadius": 100.0,
+                "maxRadius": 2000.0,
+                "mode": "RETR_EXTERNAL",
+                "draw_circles": true,
+                "circle_fit_mode": "standardLSQ",
+                "fit_single_circle": false
+            }
+        }
+    ]
+}
