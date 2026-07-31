@@ -1,0 +1,5 @@
+{
+    "vision_result": "pm_vision_interfaces.msg.VisionResponse(vision_ok=True, process_name='vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_09_39_06.json', process_uid='CoPilotVision', exec_timestamp='31_07_2026_09_40_04', cross_validation=pm_vision_interfaces.msg.CrossValidation(image_source_name='', vision_ok=False, failed_images=[], numb_images=0, counter_error=0), results=pm_vision_interfaces.msg.VisionResults(points=[], lines=[], areas=[], circles=[pm_vision_interfaces.msg.VisionCircle(center_point=pm_vision_interfaces.msg.VisionPoint(axis_value_1=-121.86999168957546, axis_value_2=2127.1815624828696, axis_suffix_1='x', axis_suffix_2='y'), radius=1648.3148020583085)], saved_images=[], image_sharpness=pm_vision_interfaces.msg.ImageSharpness(sharpness_value=0.0)))",
+    "quality_score": {},
+    "process_debug": []
+}
