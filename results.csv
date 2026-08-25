@@ -1,0 +1,601 @@
+File name;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+Full/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260618_11_00_27;4,29912017422735;289,916568075718;968,909800478718;1295,022;1037,956;220,427;Yes;Yes;No
+Full/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260618_11_01_51;-121,689898093311;2124,03811615794;1645,87900193751;1323,684;1455,218;374,437;Yes;No;No
+Full/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260618_11_04_36;3,11524056043914;265,200956187192;786,22748526252;1295,291;1032,333;178,866;Yes;No;No
+Full/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260618_11_06_50;4,42825868925794;289,972419363877;971,050305659245;1294,992;1037,969;220,914;Yes;Yes;No
+Full/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260618_11_08_55;2,91132943363285;267,03650971254;787,251519518014;1295,337;1032,751;179,099;Yes;No;No
+Full/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260618_11_14_23;4,30138855137537;289,923573431744;968,927316587382;1295,021;1037,958;220,431;Yes;Yes;No
+Full/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260618_11_16_37;-;-;-;-;-;-;No;No;No
+Full/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260618_11_21_05;4,42827274301406;289,971349059307;971,043338355644;1294,992;1037,968;220,912;Yes;Yes;No
+Full/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260618_11_22_21;4,30138855137537;289,923573431744;968,927316587382;1295,021;1037,958;220,431;Yes;Yes;No
+Full/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260618_11_24_34;4,29751436588032;289,92358285862;968,899314345354;1295,022;1037,958;220,424;Yes;Yes;No
+
+File name;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+Full/vacuum_gripper_huggingface_zai-org_zai-org_GLM-4.5V_20260616_15_01_01;-42,007938367646;425,837191709464;3233,24883138976;1305,557;1068,878;735,563;Yes;No;No
+Full/vacuum_gripper_huggingface_zai-org_zai-org_GLM-4.5V_20260616_15_03_23;-;-;-;-;-;-;No;No;No
+Full/vacuum_gripper_huggingface_zai-org_zai-org_GLM-4.5V_20260616_15_05_20;-3410,4852606072;3959,51450408717;182,907881849032;2071,884;1872,788;41,611;Yes;No;No
+Full/vacuum_gripper_huggingface_zai-org_zai-org_GLM-4.5V_20260616_15_06_31;4,30138855137537;289,923573431744;968,927316587382;1295,021;1037,958;220,431;Yes;Yes;No
+Full/vacuum_gripper_huggingface_zai-org_zai-org_GLM-4.5V_20260616_15_07_44;4,29712059977094;289,916574445683;968,89580168024;1295,022;1037,956;220,423;Yes;Yes;No
+Full/vacuum_gripper_huggingface_zai-org_zai-org_GLM-4.5V_20260616_15_09_06;-;-;-;-;-;-;No;No;No
+Full/vacuum_gripper_huggingface_zai-org_zai-org_GLM-4.5V_20260616_15_10_44;-;-;-;-;-;-;No;No;No
+Full/vacuum_gripper_huggingface_zai-org_zai-org_GLM-4.5V_20260616_15_14_23;-;-;-;-;-;-;No;No;No
+Full/vacuum_gripper_huggingface_zai-org_zai-org_GLM-4.5V_20260616_15_15_13;-;-;-;-;-;-;No;No;No
+Full/vacuum_gripper_huggingface_zai-org_zai-org_GLM-4.5V_20260616_15_18_13;4135,08308646862;4229,79032592577;149,995880657334;355,27;1934,276;34,124;Yes;No;No
+
+File name;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+Namee only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260618_11_30_13;-6,19032666229656;273,211500912244;789,015529914726;1297,408;1034,156;179,501;Yes;No;No
+Namee only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260618_11_33_09;4,30138855137537;289,923573431744;968,927316587382;1295,021;1037,958;220,431;Yes;Yes;No
+Namee only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260618_11_41_46;4,29712059977094;289,916574445683;968,89580168024;1295,022;1037,956;220,423;Yes;Yes;No
+Namee only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260618_11_48_22;-;-;-;-;-;-;No;No;No
+Namee only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260618_12_02_37;4,30138855137537;289,923573431744;968,927316587382;1295,021;1037,958;220,431;Yes;Yes;No
+Namee only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260618_12_08_48;4,30138855137537;289,923573431744;968,927316587382;1295,021;1037,958;220,431;Yes;Yes;No
+Namee only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260618_12_12_02;5,50937932437644;271,409369315041;796,876873531509;1294,746;1033,746;181,289;Yes;No;No
+Namee only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260618_12_14_40;4,42827274301406;289,971349059307;971,043338355644;1294,992;1037,968;220,912;Yes;Yes;No
+Namee only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260618_12_18_35;4,42614393995451;289,987602097729;976,609813216246;1294,993;1037,972;222,178;Yes;Yes;No
+Namee only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260618_12_20_11;2,91132943363285;267,03650971254;787,251519518014;1295,337;1032,751;179,099;Yes;No;No
+
+File name;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+Namee only/vacuum_gripper_huggingface_zai-org_zai-org_GLM-4.5V_20260616_15_20_34;4,09236451417453;290,256812740789;975,839845678444;1295,069;1038,033;222,003;Yes;Yes;No
+Namee only/vacuum_gripper_huggingface_zai-org_zai-org_GLM-4.5V_20260616_15_25_05;-;-;-;-;-;-;No;No;No
+Namee only/vacuum_gripper_huggingface_zai-org_zai-org_GLM-4.5V_20260616_15_26_21;-;-;-;-;-;-;No;No;No
+Namee only/vacuum_gripper_huggingface_zai-org_zai-org_GLM-4.5V_20260616_15_28_25;-;-;-;-;-;-;No;No;No
+Namee only/vacuum_gripper_huggingface_zai-org_zai-org_GLM-4.5V_20260616_15_32_22;-;-;-;-;-;-;No;No;No
+Namee only/vacuum_gripper_huggingface_zai-org_zai-org_GLM-4.5V_20260616_15_36_14;-1792,42307465396;2834,13613508733;72,3534344875443;1703,775;1616,765;16,46;Yes;No;No
+Namee only/vacuum_gripper_huggingface_zai-org_zai-org_GLM-4.5V_20260616_15_39_47;-;-;-;-;-;-;No;No;No
+Namee only/vacuum_gripper_huggingface_zai-org_zai-org_GLM-4.5V_20260616_15_43_26;-;-;-;-;-;-;No;No;No
+Namee only/vacuum_gripper_huggingface_zai-org_zai-org_GLM-4.5V_20260616_15_48_31;-;-;-;-;-;-;No;No;No
+Namee only/vacuum_gripper_huggingface_zai-org_zai-org_GLM-4.5V_20260616_15_51_31;-;-;-;-;-;-;No;No;No
+
+;x;y;r
+HoughCircles;1294;1038;221
+Cam_CS;8,79;290,11;971,43
+Success tolerance px;6;6;6
+
+File name;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+Full/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260625_11_14_47;4,49492291363774;290,182011092929;972,417072759221;1294,977;1038,016;221,225;Yes;Yes;No
+Full/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260625_11_33_15;85,0587263406914;-1789,18895221216;2347,26643631701;1276,649;564,96;534,002;Yes;No;No
+Full/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260625_11_41_27;4,32109395827508;289,928503348716;991,211077670518;1295,017;1037,959;225,5;Yes;Yes;No
+Full/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260625_11_46_12;93,7278529739421;144,843648690042;2613,16757771383;1274,677;1004,952;594,495;Yes;No;No
+Full/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260625_11_52_29;3409,43478929303;3493,38886943704;1401,29351804573;520,354;1766,745;318,794;Yes;No;No
+Full/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260625_11_57_14;24,184689823331;269,666962523282;1035,7339137455;1290,498;1033,349;235,629;Yes;No;No
+Full/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260625_12_03_47;5,65916565486046;285,731764959189;1025,13091249116;1294,712;1037,004;233,217;Yes;No;Yes
+Full/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260625_12_08_01;51,2906696561868;322,211096972389;1853,7897925529;1284,331;1045,303;421,737;Yes;No;No
+Full/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260625_12_20_01;5,66938401678752;285,966710115753;991,383140747559;1294,71;1037,057;225,539;Yes;Yes;Yes
+Full/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260625_12_21_28;4,32109395827508;289,928503348716;991,211077670518;1295,017;1037,959;225,5;Yes;Yes;No
+
+File name;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+Full/vacuum_gripper_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_09_04;-42,8458803168984;419,546069093355;3236,62706970444;1305,747;1067,447;736,332;Yes;No;No
+Full/vacuum_gripper_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_09_31;-;-;-;-;-;-;No;No;No
+Full/vacuum_gripper_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_09_57;-50,8960269423194;426,420231044719;3219,0242094471;1307,579;1069,011;732,327;Yes;No;No
+Full/vacuum_gripper_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_10_21;-;-;-;-;-;-;No;No;No
+Full/vacuum_gripper_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_10_56;-;-;-;-;-;-;No;No;No
+Full/vacuum_gripper_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_11_20;-;-;-;-;-;-;No;No;No
+Full/vacuum_gripper_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_11_56;-44,6058382077416;425,24126409943;3231,20283771708;1306,148;1068,742;735,098;Yes;No;No
+Full/vacuum_gripper_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_12_20;-42,8458803168984;419,546069093355;3236,62706970444;1305,747;1067,447;736,332;Yes;No;No
+Full/vacuum_gripper_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_12_44;-;-;-;-;-;-;No;No;No
+Full/vacuum_gripper_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_13_10;-;-;-;-;-;-;No;No;No
+
+File name;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+Full/vacuum_gripper_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_11_31_51;-;-;-;-;-;-;No;No;No
+Full/vacuum_gripper_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_11_32_42;4,30138855137537;289,923573431744;968,927316587382;1295,021;1037,958;220,431;Yes;Yes;No
+Full/vacuum_gripper_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_11_34_02;-;-;-;-;-;-;No;No;No
+Full/vacuum_gripper_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_11_36_17;-;-;-;-;-;-;No;No;No
+Full/vacuum_gripper_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_11_39_31;-;-;-;-;-;-;No;No;No
+Full/vacuum_gripper_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_11_42_18;-;-;-;-;-;-;No;No;No
+Full/vacuum_gripper_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_11_44_22;-;-;-;-;-;-;No;No;No
+Full/vacuum_gripper_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_11_46_18;-;-;-;-;-;-;No;No;No
+Full/vacuum_gripper_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_11_48_07;-48,8843569884078;432,751019167715;3215,46424112352;1307,121;1070,451;731,517;Yes;No;No
+Full/vacuum_gripper_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_11_49_51;14,7088482130864;297,376498722074;969,682739382525;1292,653;1039,653;220,602;Yes;Yes;Yes
+
+File name;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+Full/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_10_32_20;-48,0943528364153;439,733514309911;3208,05928610034;1306,941;1072,039;729,832;Yes;No;No
+Full/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_10_33_26;-47,860405655163;428,136902238729;3221,25235723976;1306,888;1069,401;732,834;Yes;No;No
+Full/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_10_34_02;-56,9640997067053;445,345923007904;3153,63730486017;1308,959;1073,316;717,451;Yes;No;No
+Full/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_10_36_07;-42,8458803168984;419,546069093355;3236,62706970444;1305,747;1067,447;736,332;Yes;No;No
+Full/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_10_36_54;-48,8843569884078;432,751019167715;3215,46424112352;1307,121;1070,451;731,517;Yes;No;No
+Full/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_10_37_22;9,30303006049924;295,454531772113;505,238100253189;1293,883;1039,216;114,941;Yes;No;No
+Full/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_10_39_20;-50,8960269423194;426,420231044719;3219,0242094471;1307,579;1069,011;732,327;Yes;No;No
+Full/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_10_40_04;-48,8843569884078;432,751019167715;3215,46424112352;1307,121;1070,451;731,517;Yes;No;No
+Full/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_10_40_55;-43,9229577811824;432,602608910561;3220,27785317737;1305,992;1070,417;732,612;Yes;No;No
+Full/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_10_41_35;-43,4374007114884;417,717513663277;3237,33205654795;1305,882;1067,031;736,492;Yes;No;No
+
+File name;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+Namee only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260625_12_27_01;-5,73042566710495;277,965972114448;787,006036256713;1297,303;1035,237;179,044;Yes;No;No
+Namee only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260625_12_29_28;1111,88848524388;3826,31574536091;3507,27506620519;1043,045;1842,486;797,904;Yes;No;No
+Namee only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260625_12_32_04;-;-;-;-;-;-;No;No;No
+Namee only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260625_12_35_20;-;-;-;-;-;-;No;No;No
+Namee only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260625_12_39_51;967,92044790625;1137,31161616999;2385,81264026786;1075,798;1230,738;542,772;Yes;No;No
+Namee only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260625_12_43_00;4,65035039220198;289,956836777596;974,121043912616;1294,942;1037,965;221,612;Yes;Yes;No
+Namee only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260625_12_48_28;3,11524056043914;265,200956187192;786,22748526252;1295,291;1032,333;178,866;Yes;No;No
+Namee only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260625_12_50_47;7,45732549837708;290,54360673699;347,620730662038;1294,303;1038,099;79,084;Yes;No;Yes
+Namee only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260625_12_55_21;-16,5574173916456;276,733685131673;809,382322188968;1299,767;1034,957;184,134;Yes;No;No
+Namee only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260625_12_59_06;5,46699801695661;286,024023882733;989,8894062295;1294,756;1037,07;225,2;Yes;Yes;Yes
+
+File name;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+Namee only/vacuum_gripper_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_11_52_17;-;-;-;-;-;-;No;No;No
+Namee only/vacuum_gripper_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_11_53_39;-;-;-;-;-;-;No;No;No
+Namee only/vacuum_gripper_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_11_58_18;-;-;-;-;-;-;No;No;No
+Namee only/vacuum_gripper_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_01_18;-;-;-;-;-;-;No;No;No
+Namee only/vacuum_gripper_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_03_26;-;-;-;-;-;-;No;No;No
+Namee only/vacuum_gripper_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_09_44;-;-;-;-;-;-;No;No;No
+Namee only/vacuum_gripper_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_12_59;19,1569501768257;289,646560533844;974,464687418171;1291,642;1037,895;221,69;Yes;Yes;Yes
+Namee only/vacuum_gripper_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_16_40;-;-;-;-;-;-;No;No;No
+Namee only/vacuum_gripper_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_20_17;-;-;-;-;-;-;No;No;No
+Namee only/vacuum_gripper_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_22_46;-;-;-;-;-;-;No;No;No
+
+File name;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+Namee only/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_10_43_29;-2,45675987859776;419,39315445611;3276,86104662412;1296,559;1067,412;745,485;Yes;No;No
+Namee only/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_10_45_24;-3297,04557089817;6802,92657542611;2640,36670084783;2046,076;2519,664;600,683;Yes;No;No
+Namee only/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_10_47_36;-145,876343129281;454,807971184799;5119,87971736563;1329,187;1075,469;1164,771;Yes;No;No
+Namee only/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_10_50_07;-3297,04557089819;6802,92657542629;2639,7215836458;2046,076;2519,664;600,536;Yes;No;No
+Namee only/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_10_51_10;-10,9658612593512;357,224960182077;3334,34141521169;1298,494;1053,269;758,562;Yes;No;No
+Namee only/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_10_54_05;-12,9016991084342;275,216572365747;813,30741847295;1298,935;1034,612;185,027;Yes;No;No
+Namee only/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_10_55_59;-;-;-;-;-;-;No;No;No
+Namee only/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_10_58_48;-3,68191050342293;254,6598469575;790,29087177851;1296,837;1029,935;179,791;Yes;No;No
+Namee only/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_01_40;27,0161481076654;315,108024523853;523,410675826786;1289,854;1043,687;119,076;Yes;No;No
+Namee only/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_02_47;-51,6449804751952;424,96779249347;3219,62580931734;1307,749;1068,68;732,464;Yes;No;No
+
+Type;Model;Total;Detected;Succeeded;Success rate[%]
+Full;Qwen Qwen3.6-35B-A3B;10;9;6;60
+Full;zai-org GLM-4.5V;10;5;2;20
+Full;google gemma-4-31B-it;10;10;4;40
+Full;deepinfra meta-llama Llama-4-Scout-17B-16E-Instruct;10;4;0;0
+Full;featherless-ai stepfun-ai Step-3.7-Flash;10;3;2;20
+Full;novita MiniMaxAI MiniMax-M3;10;10;0;0
+Namee only;Qwen Qwen3.6-35B-A3B;10;9;6;60
+Namee only;zai-org GLM-4.5V;10;2;1;10
+Namee only;google gemma-4-31B-it;10;8;2;20
+Namee only;featherless-ai stepfun-ai Step-3.7-Flash;10;1;1;10
+Namee only;novita MiniMaxAI MiniMax-M3;10;9;0;0
+
+File name;Circle candidates;Ideal circle found;Rated OK;Selected candidate;Max error px;Note
+Full specs/...google_gemma-4-31B-it_20260625_12_03_47;2;No;No;1;12,217;"Many results; no ideal circle within +/-6 px"
+Full specs/...google_gemma-4-31B-it_20260625_12_20_01;4;Yes;Yes;1;4,539;"Many results; ideal circle found"
+Full specs/...Step-3.7-Flash_20260703_11_49_51;8;Yes;Yes;5;1,653;"Many results; ideal circle found"
+Name only/...google_gemma-4-31B-it_20260625_12_50_47;14;No;No;6;141,916;"Many results; no ideal circle within +/-6 px"
+Name only/...google_gemma-4-31B-it_20260625_12_59_06;6;Yes;Yes;2;4,2;"Many results; ideal circle found"
+Name only/...Step-3.7-Flash_20260703_12_12_59;5;Yes;Yes;2;2,358;"Many results; ideal circle found"
+new prompt1 name only/...MiniMax-M3_20260707_11_30_27;3;Yes;Yes;1;0,992;"Many results; ideal circle found"
+
+Source;Model;Total;Detected;Succeeded;Success rate
+new prompt full specs;Qwen Qwen3.6-35B-A3B;5;4;2;40
+new prompt full specs;google gemma-4-31B-it;10;10;9;90
+new prompt full specs;novita moonshotai Kimi-K2.5;10;9;7;70
+new prompt full specs;novita zai-org GLM-4.5V;5;4;3;60
+new prompt name only;Qwen Qwen3.6-35B-A3B;5;4;3;60
+new prompt name only;google gemma-4-31B-it;10;10;10;100
+new prompt name only;novita MiniMaxAI MiniMax-M3;5;2;0;0
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+new prompt 1full specs/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260707_12_18_36;TRUE;4,65035;289,956837;974,121044;1294,942;1037,965;221,612;Yes;Yes;No
+new prompt 1full specs/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260707_12_18_58;TRUE;4133,986297;4238,844343;134,023917;355,519;1936,336;30,49;Yes;No;No
+new prompt 1full specs/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260707_12_19_21;TRUE;4,428259;289,972419;971,050306;1294,992;1037,969;220,914;Yes;Yes;No
+new prompt 1full specs/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260707_12_19_45;TRUE;4,300775;289,965732;968,948425;1295,021;1037,967;220,435;Yes;Yes;No
+new prompt 1full specs/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260707_12_20_15;TRUE;85,058726;-1789,188952;2347,266436;1276,649;564,96;534,002;Yes;No;No
+new prompt 1full specs/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260717_10_06_04;TRUE;45,789037;4238,048581;354,294259;1285,583;1936,155;80,602;Yes;No;No
+new prompt 1full specs/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260717_10_06_57;TRUE;5,472413;285,984134;995,491256;1294,755;1037,061;226,474;Yes;Yes;Yes
+new prompt 1full specs/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260717_10_07_27;TRUE;45,789037;4238,048581;354,294259;1285,583;1936,155;80,602;Yes;No;No
+new prompt 1full specs/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260717_10_07_45;TRUE;4,301389;289,923573;968,927317;1295,021;1037,958;220,431;Yes;Yes;No
+new prompt 1full specs/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260717_10_08_06;TRUE;4,65035;289,956837;974,121044;1294,942;1037,965;221,612;Yes;Yes;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+new prompt 1full specs/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260707_10_55_47;TRUE;17,41227;325,679951;3362,633408;1292,038;1046,092;764,998;Yes;No;No
+new prompt 1full specs/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260707_10_56_58;TRUE;4,428839;289,96327;971,03289;1294,992;1037,967;220,91;Yes;Yes;No
+new prompt 1full specs/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260707_10_58_23;TRUE;4,428421;289,973828;971,05232;1294,992;1037,969;220,914;Yes;Yes;No
+new prompt 1full specs/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260707_11_00_13;TRUE;-96,206719;1696,857393;681,936871;1317,887;1358,035;155,14;Yes;No;No
+new prompt 1full specs/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260707_11_02_45;TRUE;2,588043;278,588346;812,348969;1295,411;1035,379;184,809;Yes;No;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+new prompt full specs/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260707_12_29_45;FALSE;-;-;-;-;-;-;No;No;No
+new prompt full specs/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260707_12_35_00;TRUE;4,4644;289,653785;966,655064;1294,984;1037,896;219,914;Yes;Yes;No
+new prompt full specs/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260707_12_37_50;TRUE;4,300775;289,965732;968,948425;1295,021;1037,967;220,435;Yes;Yes;No
+new prompt full specs/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260707_12_39_15;TRUE;38,381418;233,835474;759,319328;1287,268;1025,198;172,745;Yes;No;No
+new prompt full specs/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260707_12_41_12;TRUE;1022,080084;3706,927385;504,884438;1063,477;1815,325;114,861;Yes;No;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+new prompt full specs/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260707_12_14_35;TRUE;4,428259;289,972419;971,050306;1294,992;1037,969;220,914;Yes;Yes;No
+new prompt full specs/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260707_12_14_51;TRUE;4,464115;289,681945;966,669202;1294,984;1037,903;219,917;Yes;Yes;No
+new prompt full specs/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260707_12_15_04;TRUE;4,495672;290,139964;972,396036;1294,977;1038,007;221,22;Yes;Yes;No
+new prompt full specs/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260707_12_15_17;TRUE;4,65035;289,956837;974,121044;1294,942;1037,965;221,612;Yes;Yes;No
+new prompt full specs/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260707_12_15_38;TRUE;4,301389;289,923573;968,927317;1295,021;1037,958;220,431;Yes;Yes;No
+new prompt full specs/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260717_10_19_51;TRUE;4,494923;290,182011;972,417073;1294,977;1038,016;221,225;Yes;Yes;No
+new prompt full specs/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260717_10_20_08;TRUE;4,65035;289,956837;974,121044;1294,942;1037,965;221,612;Yes;Yes;No
+new prompt full specs/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260717_10_21_34;TRUE;4,65035;289,956837;974,121044;1294,942;1037,965;221,612;Yes;Yes;No
+new prompt full specs/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260717_10_22_08;TRUE;654,144973;3864,680649;195,325411;1147,182;1851,214;44,436;Yes;No;Yes
+new prompt full specs/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260717_10_22_57;TRUE;4,65035;289,956837;974,121044;1294,942;1037,965;221,612;Yes;Yes;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+new prompt full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260707_13_16_46;TRUE;4,29912;289,916568;968,9098;1295,022;1037,956;220,427;Yes;Yes;No
+new prompt full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260707_13_17_28;TRUE;4,403133;289,963427;969,901848;1294,998;1037,967;220,652;Yes;Yes;No
+new prompt full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260707_13_21_31;TRUE;4,428259;289,972419;971,050306;1294,992;1037,969;220,914;Yes;Yes;No
+new prompt full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260707_13_22_56;FALSE;-;-;-;-;-;-;No;No;No
+new prompt full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260707_13_39_00;TRUE;4,428259;289,972419;971,050306;1294,992;1037,969;220,914;Yes;Yes;No
+new prompt full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260717_10_32_27;TRUE;5,280304;289,560083;977,478066;1294,798;1037,875;222,376;Yes;Yes;No
+new prompt full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260717_10_40_07;TRUE;78,35649;74,163098;1602,435128;1278,174;988,872;364,553;Yes;No;No
+new prompt full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260717_10_43_24;TRUE;5,774569;289,268952;979,625262;1294,686;1037,809;222,864;Yes;Yes;No
+new prompt full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260717_10_45_55;TRUE;35,949729;464,263482;992,646059;1287,821;1077,62;225,827;Yes;No;No
+new prompt full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260717_10_53_28;TRUE;4,410249;289,963851;969,907352;1294,996;1037,967;220,654;Yes;Yes;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+new prompt full specs/vacuum_gripper_huggingface_novita_zai-org_GLM-4.5V_20260707_13_41_26;TRUE;4,65035;289,956837;974,121044;1294,942;1037,965;221,612;Yes;Yes;No
+new prompt full specs/vacuum_gripper_huggingface_novita_zai-org_GLM-4.5V_20260707_13_46_32;FALSE;-;-;-;-;-;-;No;No;No
+new prompt full specs/vacuum_gripper_huggingface_novita_zai-org_GLM-4.5V_20260707_13_52_30;TRUE;4,65035;289,956837;974,121044;1294,942;1037,965;221,612;Yes;Yes;No
+new prompt full specs/vacuum_gripper_huggingface_novita_zai-org_GLM-4.5V_20260707_14_02_14;TRUE;63,850188;4171,738531;79,273007;1281,474;1921,069;18,035;Yes;No;No
+new prompt full specs/vacuum_gripper_huggingface_novita_zai-org_GLM-4.5V_20260707_14_07_30;TRUE;4,428259;289,972419;971,050306;1294,992;1037,969;220,914;Yes;Yes;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+new prompt name only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260707_12_43_00;FALSE;-;-;-;-;-;-;No;No;No
+new prompt name only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260707_12_46_20;TRUE;3,115243;265,200955;786,227485;1295,291;1032,333;178,866;Yes;No;No
+new prompt name only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260707_12_48_18;TRUE;4,88269;289,697427;976,081085;1294,889;1037,906;222,058;Yes;Yes;No
+new prompt name only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260707_12_52_03;TRUE;4,941967;289,662907;976,129425;1294,875;1037,898;222,069;Yes;Yes;No
+new prompt name only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260707_12_58_34;TRUE;5,814256;286,59237;989,287159;1294,677;1037,2;225,062;Yes;Yes;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+new prompt name only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260707_12_16_41;TRUE;4,29912;289,916568;968,9098;1295,022;1037,956;220,427;Yes;Yes;No
+new prompt name only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260707_12_16_58;TRUE;4,29912;289,916568;968,9098;1295,022;1037,956;220,427;Yes;Yes;No
+new prompt name only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260707_12_17_11;TRUE;4,635901;289,97859;974,103642;1294,945;1037,97;221,608;Yes;Yes;No
+new prompt name only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260707_12_17_26;TRUE;4,428273;289,971349;971,043338;1294,992;1037,968;220,912;Yes;Yes;No
+new prompt name only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260707_12_17_39;TRUE;4,29912;289,916568;968,9098;1295,022;1037,956;220,427;Yes;Yes;No
+new prompt name only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260715_12_38_34;TRUE;4,471345;289,653017;966,651561;1294,982;1037,896;219,913;Yes;Yes;No
+new prompt name only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260715_12_38_54;TRUE;4,29912;289,916568;968,9098;1295,022;1037,956;220,427;Yes;Yes;No
+new prompt name only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260715_12_39_08;TRUE;4,297121;289,916574;968,895802;1295,022;1037,956;220,423;Yes;Yes;No
+new prompt name only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260715_12_39_25;TRUE;4,29912;289,916568;968,9098;1295,022;1037,956;220,427;Yes;Yes;Yes
+new prompt name only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260715_12_39_51;TRUE;4,635901;289,97859;974,103642;1294,945;1037,97;221,608;Yes;Yes;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+new prompt name only/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260707_11_33_16;FALSE;-;-;-;-;-;-;No;No;No
+new prompt name only/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260707_11_38_10;FALSE;-;-;-;-;-;-;No;No;No
+new prompt name only/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260707_11_40_31;TRUE;14,936797;223,395228;508,672884;1292,602;1022,822;115,723;Yes;No;No
+new prompt name only/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260707_11_42_34;TRUE;-9,973451;271,439014;815,063726;1298,269;1033,752;185,427;Yes;No;No
+new prompt name only/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260707_11_46_02;TRUE;-;-;-;-;-;-;No;No;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+new prompt1 name only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260707_12_21_16;TRUE;4,29912;289,916568;968,9098;1295,022;1037,956;220,427;Yes;Yes;No
+new prompt1 name only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260707_12_21_54;TRUE;4,29912;289,916568;968,9098;1295,022;1037,956;220,427;Yes;Yes;No
+new prompt1 name only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260707_12_22_16;TRUE;4,29912;289,916568;968,9098;1295,022;1037,956;220,427;Yes;Yes;No
+new prompt1 name only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260707_12_22_44;TRUE;4,29912;289,916568;968,9098;1295,022;1037,956;220,427;Yes;Yes;No
+new prompt1 name only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260707_12_23_02;TRUE;4,29912;289,916568;968,9098;1295,022;1037,956;220,427;Yes;Yes;No
+new prompt1 name only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260715_12_40_59;TRUE;4,29912;289,916568;968,9098;1295,022;1037,956;220,427;Yes;Yes;Yes
+new prompt1 name only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260715_12_58_57;TRUE;4,428273;289,971349;971,043338;1294,992;1037,968;220,912;Yes;Yes;No
+new prompt1 name only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260715_12_59_15;TRUE;4,29912;289,916568;968,9098;1295,022;1037,956;220,427;Yes;Yes;No
+new prompt1 name only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260715_12_59_54;TRUE;4,643114;289,971175;974,110603;1294,943;1037,968;221,61;Yes;Yes;No
+new prompt1 name only/vacuum_gripper_huggingface_auto_google_gemma-4-31B-it_20260715_13_09_32;FALSE;-;-;-;-;-;-;No;No;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+new prompt1 name only/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260707_11_05_43;TRUE;160,558516;126,173598;746,48374;1259,473;1000,705;169,825;Yes;No;No
+new prompt1 name only/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260707_11_07_44;TRUE;4,471188;289,655711;966,654421;1294,983;1037,897;219,914;Yes;Yes;No
+new prompt1 name only/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260707_11_09_29;TRUE;4,299117;289,918281;968,912116;1295,022;1037,956;220,427;Yes;Yes;No
+new prompt1 name only/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260707_11_23_07;TRUE;-;-;-;-;-;-;No;No;No
+new prompt1 name only/vacuum_gripper_huggingface_novita_MiniMaxAI_MiniMax-M3_20260707_11_30_27;TRUE;4,428421;289,972752;971,045345;1294,992;1037,969;220,912;Yes;Yes;Yes
+
+Source;Model;Total;Detected;Succeeded;Success rate
+new prompt 1full specs;google gemma-4-31B-it;10;10;6;60
+new prompt 1full specs;novita MiniMaxAI MiniMax-M3;5;5;2;40
+new prompt1 name only;google gemma-4-31B-it;10;9;9;90
+new prompt1 name only;novita MiniMaxAI MiniMax-M3;5;4;3;60
+
+Source;Model;Total;Detected;Succeeded;Success rate
+new prompt / full specs;gpt-5;10;10;7;70.0%
+new prompt / name only;deepinfra moonshotai Kimi-K2.5;10;7;3;30.0%
+new prompt1 / full specs;Qwen Qwen3.6-35B-A3B;10;8;5;50.0%
+new prompt1 / full specs;gpt-5;10;10;8;80.0%
+new prompt1 / full specs;novita moonshotai Kimi-K2.5;10;10;5;50.0%
+new prompt1 / name only;Qwen Qwen3.6-35B-A3B;10;9;8;80.0%
+new prompt1 / name only;novita moonshotai Kimi-K2.5;10;10;4;40.0%
+oriprompt / full specs;novita moonshotai Kimi-K2.5;10;10;1;10.0%
+oriprompt / name only;novita moonshotai Kimi-K2.5;10;10;2;20.0%
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+new/new prompt/full specs/vacuum_gripper_openai_gpt-5_20260731_12_16_32;TRUE;1,50441;292,079997;957,860957;1295,657;1038,448;217,913;Yes;Yes;Yes
+new/new prompt/full specs/vacuum_gripper_openai_gpt-5_20260731_12_18_24;TRUE;4,293748;290,376442;970,580405;1295,023;1038,061;220,807;Yes;Yes;No
+new/new prompt/full specs/vacuum_gripper_openai_gpt-5_20260731_12_19_46;TRUE;11,807134;34,492559;1417,374597;1293,314;979,847;322,452;Yes;No;Yes
+new/new prompt/full specs/vacuum_gripper_openai_gpt-5_20260731_12_23_07;TRUE;5,56039;286,462596;991,165383;1294,735;1037,17;225,49;Yes;Yes;No
+new/new prompt/full specs/vacuum_gripper_openai_gpt-5_20260731_12_24_59;TRUE;1,458324;292,507458;958,034009;1295,668;1038,545;217,952;Yes;Yes;No
+new/new prompt/full specs/vacuum_gripper_openai_gpt-5_20260731_12_27_33;TRUE;-3,069226;159,29836;771,497331;1296,698;1008,24;175,515;Yes;No;No
+new/new prompt/full specs/vacuum_gripper_openai_gpt-5_20260731_12_29_09;TRUE;1,568522;292,152858;957,709014;1295,643;1038,465;217,878;Yes;Yes;Yes
+new/new prompt/full specs/vacuum_gripper_openai_gpt-5_20260731_12_31_08;TRUE;134,189185;99,134519;751,373152;1265,472;994,553;170,937;Yes;No;No
+new/new prompt/full specs/vacuum_gripper_openai_gpt-5_20260731_12_33_04;TRUE;2,501407;293,101312;959,057716;1295,431;1038,681;218,185;Yes;Yes;Yes
+new/new prompt/full specs/vacuum_gripper_openai_gpt-5_20260731_12_35_08;TRUE;6,774251;291,153156;956,444379;1294,459;1038,237;217,591;Yes;Yes;Yes
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+new/new prompt/name only/vacuum_gripper_huggingface_deepinfra_moonshotai_Kimi-K2.5_20260731_12_38_03;TRUE;4,489588;290,625177;973,82303;1294,978;1038,117;221,544;Yes;Yes;No
+new/new prompt/name only/vacuum_gripper_huggingface_deepinfra_moonshotai_Kimi-K2.5_20260731_12_40_48;TRUE;4,434812;290,401561;972,487401;1294,991;1038,066;221,241;Yes;Yes;No
+new/new prompt/name only/vacuum_gripper_huggingface_deepinfra_moonshotai_Kimi-K2.5_20260731_12_42_39;TRUE;6,979648;290,307275;476,341734;1294,412;1038,045;108,368;Yes;No;No
+new/new prompt/name only/vacuum_gripper_huggingface_deepinfra_moonshotai_Kimi-K2.5_20260731_12_45_55;TRUE;69,665352;325,554844;2430,208508;1280,151;1046,064;552,872;Yes;No;No
+new/new prompt/name only/vacuum_gripper_huggingface_deepinfra_moonshotai_Kimi-K2.5_20260731_12_49_16;FALSE;;;;;;;No;No;No
+new/new prompt/name only/vacuum_gripper_huggingface_deepinfra_moonshotai_Kimi-K2.5_20260731_12_58_54;TRUE;831,907785;3529,902743;450,569713;1106,741;1775,052;102,504;Yes;No;Yes
+new/new prompt/name only/vacuum_gripper_huggingface_deepinfra_moonshotai_Kimi-K2.5_20260731_13_02_45;FALSE;;;;;;;No;No;No
+new/new prompt/name only/vacuum_gripper_huggingface_deepinfra_moonshotai_Kimi-K2.5_20260731_13_04_02;FALSE;;;;;;;No;No;No
+new/new prompt/name only/vacuum_gripper_huggingface_deepinfra_moonshotai_Kimi-K2.5_20260731_13_07_20;TRUE;4,30548;290,347342;970,346047;1295,02;1038,054;220,753;Yes;Yes;No
+new/new prompt/name only/vacuum_gripper_huggingface_deepinfra_moonshotai_Kimi-K2.5_20260731_13_08_54;TRUE;-13,319111;293,535372;938,6201;1299,03;1038,779;213,536;Yes;No;Yes
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+new/new prompt1/full specs/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260731_10_48_13;TRUE;4,303481;290,347363;970,332028;1295,021;1038,054;220,75;Yes;Yes;No
+new/new prompt1/full specs/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260731_10_49_20;TRUE;70,530767;197,59735;767,779129;1279,954;1016,953;174,669;Yes;No;No
+new/new prompt1/full specs/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260731_10_51_27;TRUE;4,305483;290,345627;970,343728;1295,02;1038,054;220,753;Yes;Yes;No
+new/new prompt1/full specs/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260731_10_53_12;TRUE;2,723344;269,059558;789,228567;1295,38;1033,211;179,549;Yes;No;No
+new/new prompt1/full specs/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260731_10_54_41;FALSE;;;;;;;No;No;No
+new/new prompt1/full specs/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260731_10_56_12;FALSE;;;;;;;No;No;No
+new/new prompt1/full specs/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260731_11_00_35;TRUE;4,434826;290,400489;972,480423;1294,991;1038,066;221,239;Yes;Yes;No
+new/new prompt1/full specs/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260731_11_01_45;TRUE;0,56982;292,509061;956,736727;1295,87;1038,546;217,657;Yes;Yes;Yes
+new/new prompt1/full specs/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260731_11_06_54;TRUE;-0,233844;270,711827;817,462874;1296,053;1033,587;185,973;Yes;No;No
+new/new prompt1/full specs/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260731_11_09_30;TRUE;4,307754;290,352643;970,36127;1295,02;1038,055;220,757;Yes;Yes;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+new/new prompt1/full specs/vacuum_gripper_openai_gpt-5_20260731_11_51_09;TRUE;740,390543;832,458628;610,474712;1127,561;1161,384;138,883;Yes;No;No
+new/new prompt1/full specs/vacuum_gripper_openai_gpt-5_20260731_11_54_18;TRUE;4,30408;290,361111;970,552381;1295,021;1038,057;220,8;Yes;Yes;No
+new/new prompt1/full specs/vacuum_gripper_openai_gpt-5_20260731_11_56_21;TRUE;4,293748;290,376442;970,580405;1295,023;1038,061;220,807;Yes;Yes;No
+new/new prompt1/full specs/vacuum_gripper_openai_gpt-5_20260731_11_59_55;TRUE;4,421794;290,237488;969,211927;1294,994;1038,029;220,495;Yes;Yes;No
+new/new prompt1/full specs/vacuum_gripper_openai_gpt-5_20260731_12_01_46;TRUE;9,68473;303,692975;972,698289;1293,796;1041,09;221,289;Yes;Yes;Yes
+new/new prompt1/full specs/vacuum_gripper_openai_gpt-5_20260731_12_03_31;TRUE;4,905504;293,837007;962,070317;1294,884;1038,848;218,871;Yes;Yes;Yes
+new/new prompt1/full specs/vacuum_gripper_openai_gpt-5_20260731_12_05_45;TRUE;5,399839;289,940546;984,834248;1294,771;1037,961;224,049;Yes;Yes;No
+new/new prompt1/full specs/vacuum_gripper_openai_gpt-5_20260731_12_07_39;TRUE;-15,257181;479,866515;771,26061;1299,471;1081,17;175,462;Yes;No;No
+new/new prompt1/full specs/vacuum_gripper_openai_gpt-5_20260731_12_11_36;TRUE;4,293955;290,47707;976,199942;1295,023;1038,084;222,085;Yes;Yes;No
+new/new prompt1/full specs/vacuum_gripper_openai_gpt-5_20260731_12_13_17;TRUE;2,539339;292,7662;959,314989;1295,422;1038,604;218,244;Yes;Yes;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+new/new prompt1/full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_10_22_52;TRUE;4,470722;290,110657;968,099813;1294,983;1038;220,242;Yes;Yes;No
+new/new prompt1/full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_10_24_10;TRUE;0,410816;266,261035;815,435594;1295,906;1032,574;185,511;Yes;No;No
+new/new prompt1/full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_10_25_28;TRUE;4,657233;290,385955;975,562683;1294,94;1038,063;221,94;Yes;Yes;No
+new/new prompt1/full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_10_27_37;TRUE;-44,671852;425,870595;3235,98482;1306,163;1068,885;736,185;Yes;No;No
+new/new prompt1/full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_10_30_35;TRUE;4,470868;290,085147;968,088518;1294,983;1037,994;220,24;Yes;Yes;No
+new/new prompt1/full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_10_32_04;TRUE;4,657233;290,385955;975,562683;1294,94;1038,063;221,94;Yes;Yes;No
+new/new prompt1/full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_10_33_34;TRUE;-59,87402;458,456856;3045,447406;1309,621;1076,299;692,838;Yes;No;No
+new/new prompt1/full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_10_35_54;TRUE;-45,469248;424,274157;3236,611514;1306,344;1068,522;736,328;Yes;No;No
+new/new prompt1/full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_10_36_46;TRUE;4,30348;290,345633;970,329708;1295,021;1038,054;220,75;Yes;Yes;No
+new/new prompt1/full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_10_38_31;TRUE;-26,208625;283,208557;991,368003;1301,962;1036,43;225,536;Yes;No;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+new/new prompt1/name only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260731_11_12_17;TRUE;12,048587;295,660341;967,756041;1293,259;1039,263;220,164;Yes;Yes;Yes
+new/new prompt1/name only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260731_11_18_23;TRUE;2,45928;292,874799;958,746922;1295,44;1038,629;218,115;Yes;Yes;Yes
+new/new prompt1/name only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260731_11_20_10;TRUE;4,305483;290,345627;970,343728;1295,02;1038,054;220,753;Yes;Yes;No
+new/new prompt1/name only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260731_11_23_59;TRUE;4,649985;290,400315;975,552227;1294,942;1038,066;221,938;Yes;Yes;No
+new/new prompt1/name only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260731_11_26_51;FALSE;;;;;;;No;No;No
+new/new prompt1/name only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260731_11_28_05;TRUE;2,45928;292,874799;958,746922;1295,44;1038,629;218,115;Yes;Yes;Yes
+new/new prompt1/name only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260731_11_33_32;TRUE;13,680565;296,880324;969,729122;1292,887;1039,54;220,613;Yes;Yes;Yes
+new/new prompt1/name only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260731_11_37_12;TRUE;2,118784;292,92953;959,807878;1295,518;1038,641;218,356;Yes;Yes;Yes
+new/new prompt1/name only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260731_11_42_48;TRUE;4,30548;290,347342;970,346047;1295,02;1038,054;220,753;Yes;Yes;No
+new/new prompt1/name only/vacuum_gripper_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260731_11_44_14;TRUE;78,099611;204,792676;734,896291;1278,232;1018,59;167,189;Yes;No;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+new/new prompt1/name only/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_10_01_21;TRUE;4,435636;290,402351;976,502189;1294,991;1038,067;222,154;Yes;Yes;Yes
+new/new prompt1/name only/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_10_02_55;TRUE;-94,700456;413,04111;3264,559417;1317,544;1065,967;742,686;Yes;No;No
+new/new prompt1/name only/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_10_04_20;TRUE;272,081054;-89,85052;1425,38665;1234,101;951,559;324,275;Yes;No;No
+new/new prompt1/name only/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_10_05_57;TRUE;-3301,787014;6841,02988;2671,247684;2047,155;2528,332;607,708;Yes;No;No
+new/new prompt1/name only/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_10_08_41;TRUE;4,435393;290,392398;972,46996;1294,991;1038,064;221,237;Yes;Yes;No
+new/new prompt1/name only/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_10_10_34;TRUE;4,409649;290,392555;971,337243;1294,997;1038,064;220,979;Yes;Yes;Yes
+new/new prompt1/name only/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_10_14_49;TRUE;-3,442857;272,131272;791,130111;1296,783;1033,91;179,982;Yes;No;No
+new/new prompt1/name only/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_10_16_51;TRUE;-121,869992;2127,181562;1648,314802;1323,725;1455,933;374,991;Yes;No;No
+new/new prompt1/name only/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_10_19_30;TRUE;4,434826;290,400489;972,480423;1294,991;1038,066;221,239;Yes;Yes;No
+new/new prompt1/name only/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_10_21_26;TRUE;-121,869992;2127,181562;1648,314802;1323,725;1455,933;374,991;Yes;No;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+new/oriprompt/full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_09_22_29;TRUE;579,955706;-152,092711;743,934036;1164,06;937,399;169,245;Yes;No;No
+new/oriprompt/full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_09_24_34;TRUE;4,303481;290,347363;970,332028;1295,021;1038,054;220,75;Yes;Yes;No
+new/oriprompt/full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_09_25_57;TRUE;-16,150262;197,030711;4941,616983;1299,674;1016,824;1124,216;Yes;No;No
+new/oriprompt/full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_09_26_39;TRUE;-42,90929;420,166972;3241,41708;1305,762;1067,588;737,421;Yes;No;No
+new/oriprompt/full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_09_27_15;TRUE;-42,90929;420,166972;3241,41708;1305,762;1067,588;737,421;Yes;No;No
+new/oriprompt/full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_09_28_34;TRUE;-44,671852;425,870595;3235,98482;1306,163;1068,885;736,185;Yes;No;No
+new/oriprompt/full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_09_29_58;TRUE;-42,90929;420,166972;3241,41708;1305,762;1067,588;737,421;Yes;No;No
+new/oriprompt/full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_09_31_21;TRUE;391,53998;-159,696228;4657,373383;1206,925;935,669;1059,551;Yes;No;No
+new/oriprompt/full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_09_34_09;TRUE;-12,306295;203,473171;4933,368994;1298,799;1018,29;1122,34;Yes;No;No
+new/oriprompt/full specs/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_09_35_25;TRUE;-47,909046;409,862171;3214,513904;1306,899;1065,244;731,301;Yes;No;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+new/oriprompt/name only/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_09_39_06;TRUE;-121,869992;2127,181562;1648,314802;1323,725;1455,933;374,991;Yes;No;No
+new/oriprompt/name only/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_09_40_17;TRUE;-138,080439;507,747294;4903,477646;1327,413;1087,512;1115,54;Yes;No;No
+new/oriprompt/name only/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_09_41_44;TRUE;-121,869992;2127,181562;1648,314802;1323,725;1455,933;374,991;Yes;No;No
+new/oriprompt/name only/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_09_44_02;TRUE;-114,342228;423,070594;5059,509822;1322,013;1068,248;1151,037;Yes;No;No
+new/oriprompt/name only/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_09_46_37;TRUE;-12,306295;203,473171;4933,368994;1298,799;1018,29;1122,34;Yes;No;No
+new/oriprompt/name only/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_09_48_48;TRUE;-44,671852;425,870595;3235,98482;1306,163;1068,885;736,185;Yes;No;No
+new/oriprompt/name only/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_09_51_39;TRUE;4,649985;290,400315;975,552227;1294,942;1038,066;221,938;Yes;Yes;No
+new/oriprompt/name only/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_09_53_30;TRUE;-151,337046;485,897042;4978,650845;1330,429;1082,541;1132,641;Yes;No;No
+new/oriprompt/name only/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_09_55_08;TRUE;4,30548;290,347342;970,346047;1295,02;1038,054;220,753;Yes;Yes;No
+new/oriprompt/name only/vacuum_gripper_huggingface_novita_moonshotai_Kimi-K2.5_20260731_09_57_02;TRUE;-132,650351;364,331123;4983,119673;1326,178;1054,885;1133,658;Yes;No;No
+
+Source;Model;Total;Detected;Succeeded;Success rate [%]
+Full specs / new prompt;claude-sonnet-4-5;10;8;8;80
+Full specs / new prompt;gpt-5-mini;10;6;2;20
+Name only / new prompt;claude-sonnet-4-5;10;9;7;70
+Name only / new prompt;gpt-5;10;9;3;30
+Name only / new prompt;gpt-5-mini;10;6;2;20
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+old models/Full specs/new prompt/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_40_03;TRUE;4,491713;290,184802;994,599956;1294,978;1038,017;226,271;Yes;Yes;Yes
+old models/Full specs/new prompt/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_45_49;TRUE;4,493869;290,070608;971,679916;1294,977;1037,991;221,057;Yes;Yes;No
+old models/Full specs/new prompt/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_47_24;TRUE;4,428421;289,973828;971,05232;1294,992;1037,969;220,914;Yes;Yes;No
+old models/Full specs/new prompt/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_48_17;TRUE;4,299117;289,918281;968,912116;1295,022;1037,956;220,427;Yes;Yes;No
+old models/Full specs/new prompt/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_49_09;TRUE;4,428421;289,973828;971,05232;1294,992;1037,969;220,914;Yes;Yes;No
+old models/Full specs/new prompt/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_49_46;TRUE;4,428421;289,973828;971,05232;1294,992;1037,969;220,914;Yes;Yes;No
+old models/Full specs/new prompt/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_50_32;TRUE;4,428421;289,972752;971,045345;1294,992;1037,969;220,912;Yes;Yes;No
+old models/Full specs/new prompt/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_51_18;FALSE;;;;;;;No;No;No
+old models/Full specs/new prompt/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_53_20;FALSE;;;;;;;No;No;No
+old models/Full specs/new prompt/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_54_58;TRUE;4,300813;289,966937;968,950644;1295,021;1037,967;220,436;Yes;Yes;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+old models/Full specs/new prompt/vacuum_gripper_openai_gpt-5-mini_20260717_16_36_14;FALSE;;;;;;;No;No;No
+old models/Full specs/new prompt/vacuum_gripper_openai_gpt-5-mini_20260717_16_38_13;FALSE;;;;;;;No;No;No
+old models/Full specs/new prompt/vacuum_gripper_openai_gpt-5-mini_20260717_16_40_43;TRUE;-579,979582;-255,310707;1494,863032;1427,945;913,917;340,081;Yes;No;No
+old models/Full specs/new prompt/vacuum_gripper_openai_gpt-5-mini_20260717_16_43_34;FALSE;;;;;;;No;No;No
+old models/Full specs/new prompt/vacuum_gripper_openai_gpt-5-mini_20260717_16_45_54;TRUE;5,524505;286,356779;990,021028;1294,743;1037,146;225,229;Yes;Yes;No
+old models/Full specs/new prompt/vacuum_gripper_openai_gpt-5-mini_20260717_16_47_06;TRUE;4,30638;289,991114;969,217339;1295,02;1037,973;220,497;Yes;Yes;No
+old models/Full specs/new prompt/vacuum_gripper_openai_gpt-5-mini_20260717_16_48_57;TRUE;27,829935;-68,252189;1426,05365;1289,668;956,473;324,427;Yes;No;No
+old models/Full specs/new prompt/vacuum_gripper_openai_gpt-5-mini_20260717_16_50_07;TRUE;-846,666034;-1403,913781;138,724821;1488,616;652,61;31,56;Yes;No;No
+old models/Full specs/new prompt/vacuum_gripper_openai_gpt-5-mini_20260717_16_52_36;TRUE;34,090097;200,488937;1368,243253;1288,244;1017,611;311,275;Yes;No;No
+old models/Full specs/new prompt/vacuum_gripper_openai_gpt-5-mini_20260717_16_55_25;FALSE;;;;;;;No;No;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+old models/Full specs/new prompt1/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_20_14;TRUE;113,247218;126,790585;3593,254023;1270,236;1000,845;817,464;Yes;No;No
+old models/Full specs/new prompt1/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_23_08;FALSE;;;;;;;No;No;No
+old models/Full specs/new prompt1/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_24_26;FALSE;;;;;;;No;No;No
+old models/Full specs/new prompt1/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_25_29;FALSE;;;;;;;No;No;No
+old models/Full specs/new prompt1/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_27_03;TRUE;-49,11327;436,630395;3216,703929;1307,173;1071,333;731,799;Yes;No;No
+old models/Full specs/new prompt1/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_28_12;FALSE;;;;;;;No;No;No
+old models/Full specs/new prompt1/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_29_42;TRUE;217,378769;-92,843307;3902,176639;1246,546;950,878;887,744;Yes;No;No
+old models/Full specs/new prompt1/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_31_27;FALSE;;;;;;;No;No;No
+old models/Full specs/new prompt1/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_33_14;FALSE;;;;;;;No;No;No
+old models/Full specs/new prompt1/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_34_36;FALSE;;;;;;;No;No;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+old models/Full specs/new prompt1/vacuum_gripper_openai_gpt-5-mini_20260717_16_59_03;TRUE;-49,379879;431,570843;3216,000654;1307,234;1070,182;731,639;Yes;No;No
+old models/Full specs/new prompt1/vacuum_gripper_openai_gpt-5-mini_20260717_17_02_33;TRUE;-38,964092;420,223447;3238,396041;1304,864;1067,601;736,734;Yes;No;No
+old models/Full specs/new prompt1/vacuum_gripper_openai_gpt-5-mini_20260717_17_04_52;TRUE;178,879029;158,45463;2996,174779;1255,305;1008,048;681,629;Yes;No;No
+old models/Full specs/new prompt1/vacuum_gripper_openai_gpt-5-mini_20260717_17_08_35;TRUE;113,099255;289,682475;2477,315717;1270,27;1037,903;563,588;Yes;No;No
+old models/Full specs/new prompt1/vacuum_gripper_openai_gpt-5-mini_20260717_17_13_02;TRUE;-20,662497;230,259541;1073,248339;1300,7;1024,384;244,164;Yes;No;Yes
+old models/Full specs/new prompt1/vacuum_gripper_openai_gpt-5-mini_20260717_17_16_14;TRUE;-47,888987;437,509708;3210,920832;1306,894;1071,533;730,483;Yes;No;No
+old models/Full specs/new prompt1/vacuum_gripper_openai_gpt-5-mini_20260717_17_17_57;FALSE;;;;;;;No;No;No
+old models/Full specs/new prompt1/vacuum_gripper_openai_gpt-5-mini_20260717_17_20_34;TRUE;-30,755664;418,92746;3255,62041;1302,997;1067,306;740,653;Yes;No;No
+old models/Full specs/new prompt1/vacuum_gripper_openai_gpt-5-mini_20260717_17_23_04;TRUE;691,098486;-334,708069;4507,967009;1138,775;895,854;1025,561;Yes;No;No
+old models/Full specs/new prompt1/vacuum_gripper_openai_gpt-5-mini_20260717_17_25_30;TRUE;114,851771;262,79152;3340,914473;1269,871;1031,785;760,057;Yes;No;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+old models/Name only/new prompt/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_56_10;FALSE;;;;;;;No;No;No
+old models/Name only/new prompt/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_58_02;TRUE;2,546071;291,720304;956,84539;1295,42;1038,366;217,682;Yes;Yes;No
+old models/Name only/new prompt/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_58_36;TRUE;4,636163;289,979854;974,105691;1294,945;1037,97;221,609;Yes;Yes;No
+old models/Name only/new prompt/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_59_07;TRUE;668,4367;4376,39006;311,616391;1143,931;1967,627;70,893;Yes;No;No
+old models/Name only/new prompt/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_00_50;TRUE;10,951735;297,478366;506,876441;1293,508;1039,676;115,314;Yes;No;No
+old models/Name only/new prompt/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_02_05;TRUE;5,917615;289,021497;979,760591;1294,653;1037,752;222,895;Yes;Yes;No
+old models/Name only/new prompt/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_02_53;TRUE;4,492927;290,082396;971,68584;1294,978;1037,994;221,058;Yes;Yes;No
+old models/Name only/new prompt/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_04_02;TRUE;4,299117;289,918281;968,912116;1295,022;1037,956;220,427;Yes;Yes;No
+old models/Name only/new prompt/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_04_30;TRUE;4,428421;289,972752;971,045345;1294,992;1037,969;220,912;Yes;Yes;No
+old models/Name only/new prompt/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_05_14;TRUE;4,297121;289,918301;968,898119;1295,022;1037,956;220,424;Yes;Yes;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+old models/Name only/new prompt/vacuum_gripper_openai_gpt-5_20260717_13_08_00;TRUE;1007,267683;4650,900153;870,125515;1066,847;2030,078;197,953;Yes;No;No
+old models/Name only/new prompt/vacuum_gripper_openai_gpt-5_20260717_13_10_53;TRUE;-0,524233;173,687324;811,163641;1296,119;1011,514;184,539;Yes;No;No
+old models/Name only/new prompt/vacuum_gripper_openai_gpt-5_20260717_13_14_27;TRUE;-1,197502;163,474942;772,65333;1296,272;1009,191;175,778;Yes;No;No
+old models/Name only/new prompt/vacuum_gripper_openai_gpt-5_20260717_13_15_35;TRUE;6,048476;288,94432;980,409008;1294,624;1037,735;223,043;Yes;Yes;No
+old models/Name only/new prompt/vacuum_gripper_openai_gpt-5_20260717_13_17_36;FALSE;;;;;;;No;No;No
+old models/Name only/new prompt/vacuum_gripper_openai_gpt-5_20260717_13_24_40;TRUE;-10,377393;236,683107;788,209649;1298,361;1025,845;179,317;Yes;No;No
+old models/Name only/new prompt/vacuum_gripper_openai_gpt-5_20260717_13_27_46;TRUE;4,287403;289,947338;969,141682;1295,024;1037,963;220,479;Yes;Yes;No
+old models/Name only/new prompt/vacuum_gripper_openai_gpt-5_20260717_13_30_24;TRUE;7,479042;290,68499;430,34841;1294,298;1038,131;97,904;Yes;No;No
+old models/Name only/new prompt/vacuum_gripper_openai_gpt-5_20260717_13_34_21;TRUE;-6,449304;215,979669;825,179051;1297,467;1021,135;187,728;Yes;No;No
+old models/Name only/new prompt/vacuum_gripper_openai_gpt-5_20260717_13_36_44;TRUE;1,456167;292,075255;956,390184;1295,668;1038,447;217,578;Yes;Yes;Yes
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+old models/Name only/new prompt/vacuum_gripper_openai_gpt-5-mini_20260717_16_15_37;FALSE;;;;;;;No;No;No
+old models/Name only/new prompt/vacuum_gripper_openai_gpt-5-mini_20260717_16_18_18;TRUE;6,041177;288,912023;980,189027;1294,625;1037,727;222,993;Yes;Yes;No
+old models/Name only/new prompt/vacuum_gripper_openai_gpt-5-mini_20260717_16_20_52;TRUE;618,020404;1156,807057;3086,459458;1155,4;1235,173;702,168;Yes;No;No
+old models/Name only/new prompt/vacuum_gripper_openai_gpt-5-mini_20260717_16_23_27;TRUE;44,076265;220,876851;1311,319222;1285,972;1022,249;298,325;Yes;No;No
+old models/Name only/new prompt/vacuum_gripper_openai_gpt-5-mini_20260717_16_25_07;FALSE;;;;;;;No;No;No
+old models/Name only/new prompt/vacuum_gripper_openai_gpt-5-mini_20260717_16_26_52;TRUE;-64,23358;-88,984956;714,07014;1310,613;951,756;162,451;Yes;No;No
+old models/Name only/new prompt/vacuum_gripper_openai_gpt-5-mini_20260717_16_29_11;FALSE;;;;;;;No;No;No
+old models/Name only/new prompt/vacuum_gripper_openai_gpt-5-mini_20260717_16_31_07;TRUE;1376,820142;3549,884361;138,063142;982,774;1779,598;31,409;Yes;No;Yes
+old models/Name only/new prompt/vacuum_gripper_openai_gpt-5-mini_20260717_16_32_00;FALSE;;;;;;;No;No;No
+old models/Name only/new prompt/vacuum_gripper_openai_gpt-5-mini_20260717_16_33_59;TRUE;6,158221;288,657704;980,695781;1294,599;1037,67;223,108;Yes;Yes;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+old models/Name only/new prompt1/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_05_58;FALSE;;;;;;;No;No;No
+old models/Name only/new prompt1/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_07_31;FALSE;;;;;;;No;No;No
+old models/Name only/new prompt1/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_10_02;FALSE;;;;;;;No;No;No
+old models/Name only/new prompt1/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_11_33;TRUE;-63,803433;451,292628;3106,520426;1310,515;1074,669;706,732;Yes;No;No
+old models/Name only/new prompt1/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_12_40;FALSE;;;;;;;No;No;No
+old models/Name only/new prompt1/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_13_56;FALSE;;;;;;;No;No;No
+old models/Name only/new prompt1/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_15_00;FALSE;;;;;;;No;No;No
+old models/Name only/new prompt1/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_16_43;TRUE;-59,432496;458,776162;3040,983292;1309,521;1076,371;691,823;Yes;No;No
+old models/Name only/new prompt1/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_17_44;TRUE;4,428273;289,971349;971,043338;1294,992;1037,968;220,912;Yes;Yes;No
+old models/Name only/new prompt1/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_18_43;FALSE;;;;;;;No;No;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+old models/Name only/new prompt1/vacuum_gripper_openai_gpt-5_20260717_13_40_06;TRUE;602,187362;4339,890327;205,818275;1159,002;1959,324;46,824;Yes;No;Yes
+old models/Name only/new prompt1/vacuum_gripper_openai_gpt-5_20260717_13_41_22;TRUE;-141,020375;22,246371;1164,331789;1328,082;977,061;264,885;Yes;No;No
+old models/Name only/new prompt1/vacuum_gripper_openai_gpt-5_20260717_15_31_10;TRUE;5,555846;286,386762;989,875138;1294,736;1037,153;225,196;Yes;Yes;No
+old models/Name only/new prompt1/vacuum_gripper_openai_gpt-5_20260717_15_35_19;TRUE;6,02345;289,088775;980,239951;1294,629;1037,768;223,004;Yes;Yes;No
+old models/Name only/new prompt1/vacuum_gripper_openai_gpt-5_20260717_15_38_03;TRUE;-0,988901;298,40661;666,766593;1296,225;1039,887;151,689;Yes;No;No
+old models/Name only/new prompt1/vacuum_gripper_openai_gpt-5_20260717_15_40_47;TRUE;6,134694;286,455858;988,427709;1294,604;1037,169;224,867;Yes;Yes;No
+old models/Name only/new prompt1/vacuum_gripper_openai_gpt-5_20260717_15_42_03;TRUE;1236,097877;1366,772073;138,773485;1014,788;1282,94;31,571;Yes;No;Yes
+old models/Name only/new prompt1/vacuum_gripper_openai_gpt-5_20260717_15_43_25;TRUE;5,512782;285,991523;989,81981;1294,746;1037,063;225,184;Yes;Yes;No
+old models/Name only/new prompt1/vacuum_gripper_openai_gpt-5_20260717_15_45_36;TRUE;6,162132;288,620322;986,258011;1294,598;1037,661;224,373;Yes;Yes;No
+old models/Name only/new prompt1/vacuum_gripper_openai_gpt-5_20260717_15_47_59;FALSE;;;;;;;No;No;No
+
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results
+old models/Name only/new prompt1/vacuum_gripper_openai_gpt-5-mini_20260717_15_51_44;TRUE;163,147016;197,74342;3942,16814;1258,884;1016,987;896,842;Yes;No;No
+old models/Name only/new prompt1/vacuum_gripper_openai_gpt-5-mini_20260717_15_54_29;TRUE;493,356451;1116,900641;1024,030596;1183,761;1226,095;232,967;Yes;No;No
+old models/Name only/new prompt1/vacuum_gripper_openai_gpt-5-mini_20260717_15_57_47;TRUE;2738,41961;3443,577996;431,523314;673,01;1755,413;98,171;Yes;No;No
+old models/Name only/new prompt1/vacuum_gripper_openai_gpt-5-mini_20260717_16_00_37;TRUE;3361,482907;357,443757;4590,17422;531,263;1053,318;1044,263;Yes;No;No
+old models/Name only/new prompt1/vacuum_gripper_openai_gpt-5-mini_20260717_16_02_32;TRUE;-34,348048;422,7056;3241,548417;1303,814;1068,165;737,451;Yes;No;No
+old models/Name only/new prompt1/vacuum_gripper_openai_gpt-5-mini_20260717_16_07_16;TRUE;1178,112356;5719,616013;2042,412719;1027,98;2273,211;464,648;Yes;No;No
+old models/Name only/new prompt1/vacuum_gripper_openai_gpt-5-mini_20260717_16_09_24;TRUE;4052,486647;552,979719;4809,385599;374,06;1097,803;1094,134;Yes;No;No
+old models/Name only/new prompt1/vacuum_gripper_openai_gpt-5-mini_20260717_16_10_39;TRUE;-396,226857;2742,648784;865,847186;1386,141;1595,952;196,98;Yes;No;No
+old models/Name only/new prompt1/vacuum_gripper_openai_gpt-5-mini_20260717_16_12_36;TRUE;135,806899;413,583957;2786,726103;1265,104;1066,09;633,979;Yes;No;No
+old models/Name only/new prompt1/vacuum_gripper_openai_gpt-5-mini_20260717_16_14_07;TRUE;116,146852;597,428324;1611,06193;1269,576;1107,915;366,516;Yes;No;No
+
+Source;Model;Total;Detected;Succeeded;Success rate [%]
+Full specs / new prompt1;claude-sonnet-4-5;10;3;0;0
+Full specs / new prompt1;gpt-5-mini;10;9;0;0
+Name only / new prompt1;claude-sonnet-4-5;10;3;1;10
+Name only / new prompt1;gpt-5;10;9;5;50
+Name only / new prompt1;gpt-5-mini;10;10;0;0
+
+Field;Value
+Ground truth x_px;1327,25
+Ground truth y_px;902,02
+Success tolerance px;6
+
+Model/provider;Total;Detected;Succeeded;Success rate
+Qwen Qwen3.6-35B-A3B (auto + deepinfra);10;10;10;100
+deepinfra meta-llama Llama-4-Scout-17B-16E-Instruct;10;10;10;100
+featherless-ai stepfun-ai Step-3.7-Flash;10;9;8;80
+novita MiniMaxAI MiniMax-M3;10;9;9;90
+together google gemma-4-31B-it;10;10;10;100
+Overall;50;48;47;94
+
+File name;vision_ok;x;y;x_px;y_px;dx_px;dy_px;error_px;Succeeded;residual_score;inlier_score;action
+Corner_full/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260630_14_55_33;TRUE;-158,190277540006;-304,165838914933;1331,988;902,802;4,738;0,782;4,802;Yes;41;13;t
+Corner_full/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260630_14_58_54;TRUE;-138,548139321303;-299,225813281882;1327,519;903,926;0,269;1,906;1,925;Yes;33;54;s
+Corner_full/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260630_15_02_12;TRUE;-136,244539368651;-301,389007256016;1326,995;903,434;-0,255;1,414;1,437;Yes;0;100;s
+Corner_full/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260630_15_05_06;TRUE;-138,555663646192;-286,155934021294;1327,521;906,9;0,271;4,88;4,888;Yes;47;36;t
+Corner_full/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260630_15_11_06;TRUE;-136,263766687073;-288,125993290253;1327;906,452;-0,25;4,432;4,439;Yes;0;100;s
+Corner_full/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260630_15_16_56;TRUE;-136,235961330532;-307,306142286446;1326,993;902,088;-0,257;0,068;0,266;Yes;2;100;s
+Corner_full/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260630_15_18_54;TRUE;-138,543420762625;-307,422029303605;1327,518;902,062;0,268;0,042;0,271;Yes;35;100;l
+Corner_full/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260630_15_23_26;TRUE;-133,614816060072;-307,283843635478;1326,397;902,093;-0,853;0,073;0,856;Yes;0;100;s
+Corner_full/sensor_corner_huggingface_deepinfra_Qwen_Qwen3.6-35B-A3B_20260630_13_45_42;TRUE;-138,548139321303;-299,225813281882;1327,519;903,926;0,269;1,906;1,925;Yes;33;54;s
+Corner_full/sensor_corner_huggingface_deepinfra_Qwen_Qwen3.6-35B-A3B_20260630_14_49_50;TRUE;-136,908645068373;-310,138439349265;1327,146;901,444;-0,104;-0,576;0,585;Yes;60;100;s
+
+File name;vision_ok;x;y;x_px;y_px;dx_px;dy_px;error_px;Succeeded;residual_score;inlier_score;action
+Corner_full/sensor_corner_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_02_28;TRUE;-136,23571425004;-307,476578534611;1326,993;902,049;-0,257;0,029;0,259;Yes;0;100;l
+Corner_full/sensor_corner_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_03_30;TRUE;-136,23571425004;-307,476578534611;1326,993;902,049;-0,257;0,029;0,259;Yes;0;100;l
+Corner_full/sensor_corner_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_04_30;TRUE;-136,23571425004;-307,476578534611;1326,993;902,049;-0,257;0,029;0,259;Yes;0;100;l
+Corner_full/sensor_corner_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_05_01;TRUE;-133,548049078988;-309,094431529817;1326,382;901,681;-0,868;-0,339;0,932;Yes;0;100;s
+Corner_full/sensor_corner_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_05_57;TRUE;-133,574549073923;-309,155445626351;1326,388;901,667;-0,862;-0,353;0,931;Yes;0;100;l
+Corner_full/sensor_corner_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_06_21;TRUE;-136,23571425004;-307,476578534611;1326,993;902,049;-0,257;0,029;0,259;Yes;0;100;l
+Corner_full/sensor_corner_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_06_50;TRUE;-136,23571425004;-307,476578534611;1326,993;902,049;-0,257;0,029;0,259;Yes;0;100;l
+Corner_full/sensor_corner_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_07_12;TRUE;-136,23571425004;-307,476578534611;1326,993;902,049;-0,257;0,029;0,259;Yes;0;100;l
+Corner_full/sensor_corner_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_07_33;TRUE;-157,785749344156;-307,480099998872;1331,896;902,048;4,646;0,028;4,646;Yes;0;24;l
+Corner_full/sensor_corner_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_07_54;TRUE;-136,23571425004;-307,476578534611;1326,993;902,049;-0,257;0,029;0,259;Yes;0;100;l
+
+File name;vision_ok;x;y;x_px;y_px;dx_px;dy_px;error_px;Succeeded;residual_score;inlier_score;action
+Corner_full/sensor_corner_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_26_11;TRUE;-141,417524977822;-300,115919533152;1328,172;903,724;0,922;1,704;1,937;Yes;0;95;s
+Corner_full/sensor_corner_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_28_34;TRUE;-128,626958167876;-313,915632772255;1325,262;900,584;-1,988;-1,436;2,452;Yes;0;100;s
+Corner_full/sensor_corner_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_30_26;TRUE;-136,244539368651;-301,389007256016;1326,995;903,434;-0,255;1,414;1,437;Yes;0;100;s
+Corner_full/sensor_corner_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_33_50;TRUE;-136,269182907665;-284,389881588273;1327,001;907,301;-0,249;5,281;5,287;Yes;0;93;s
+Corner_full/sensor_corner_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_35_22;TRUE;-136,110730477856;-309,489839319149;1326,965;901,591;-0,285;-0,429;0,515;Yes;0;100;l
+Corner_full/sensor_corner_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_37_43;TRUE;-135,570601815564;-307,421597841682;1326,842;902,062;-0,408;0,042;0,41;Yes;35;100;s
+Corner_full/sensor_corner_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_39_35;TRUE;-136,263766687073;-288,125993290253;1327;906,452;-0,25;4,432;4,439;Yes;0;100;s
+Corner_full/sensor_corner_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_42_15;TRUE;-136,244539368651;-301,389007256016;1326,995;903,434;-0,255;1,414;1,437;Yes;0;100;s
+Corner_full/sensor_corner_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_45_58;-;-;-;-;-;-;-;-;No;-;-;-
+Corner_full/sensor_corner_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_50_01;TRUE;-1932,78600702908;204,591942640897;1735,708;1018,545;408,458;116,525;424,754;No;0;54;s
+
+File name;vision_ok;x;y;x_px;y_px;dx_px;dy_px;error_px;Succeeded;residual_score;inlier_score;action
+Corner_full/sensor_corner_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_08_51;TRUE;-136,263766687073;-288,125993290253;1327;906,452;-0,25;4,432;4,439;Yes;0;100;s
+Corner_full/sensor_corner_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_10_49;TRUE;-138,543420762625;-307,422029303605;1327,518;902,062;0,268;0,042;0,271;Yes;35;100;s
+Corner_full/sensor_corner_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_12_03;TRUE;-136,113401812289;-307,476558547689;1326,965;902,049;-0,285;0,029;0,286;Yes;0;100;s
+Corner_full/sensor_corner_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_14_13;TRUE;-136,280724301853;-306,340089492608;1327,004;902,308;-0,246;0,288;0,379;Yes;0;100;l
+Corner_full/sensor_corner_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_16_06;TRUE;-136,237361830415;-306,340076759376;1326,994;902,308;-0,256;0,288;0,385;Yes;0;100;l
+Corner_full/sensor_corner_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_19_31;FALSE;-;-;-;-;-;-;-;No;-;-;-
+Corner_full/sensor_corner_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_21_43;TRUE;-138,543420762625;-307,422029303605;1327,518;902,062;0,268;0,042;0,271;Yes;35;100;l
+Corner_full/sensor_corner_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_27_18;TRUE;-136,113401812289;-307,476558547689;1326,965;902,049;-0,285;0,029;0,286;Yes;0;100;l
+Corner_full/sensor_corner_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_28_49;TRUE;-138,543420762625;-307,422029303605;1327,518;902,062;0,268;0,042;0,271;Yes;35;100;s
+Corner_full/sensor_corner_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_29_53;TRUE;-136,23571425004;-307,476578534611;1326,993;902,049;-0,257;0,029;0,259;Yes;0;100;s
+
+File name;vision_ok;x;y;x_px;y_px;dx_px;dy_px;error_px;Succeeded;residual_score;inlier_score;action
+Corner_full/sensor_corner_huggingface_together_google_gemma-4-31B-it_20260630_15_28_44;TRUE;-136,280724301853;-306,340089492608;1327,004;902,308;-0,246;0,288;0,379;Yes;0;100;l
+Corner_full/sensor_corner_huggingface_together_google_gemma-4-31B-it_20260630_15_31_01;TRUE;-136,113401812289;-307,476558547689;1326,965;902,049;-0,285;0,029;0,286;Yes;0;100;l
+Corner_full/sensor_corner_huggingface_together_google_gemma-4-31B-it_20260630_15_32_25;TRUE;-136,113401812289;-307,476558547689;1326,965;902,049;-0,285;0,029;0,286;Yes;0;100;l
+Corner_full/sensor_corner_huggingface_together_google_gemma-4-31B-it_20260630_15_38_00;TRUE;-136,23571425004;-307,476578534611;1326,993;902,049;-0,257;0,029;0,259;Yes;0;100;l
+Corner_full/sensor_corner_huggingface_together_google_gemma-4-31B-it_20260630_15_39_58;TRUE;-136,23571425004;-307,476578534611;1326,993;902,049;-0,257;0,029;0,259;Yes;0;100;s
+Corner_full/sensor_corner_huggingface_together_google_gemma-4-31B-it_20260630_15_44_32;TRUE;-136,23571425004;-307,476578534611;1326,993;902,049;-0,257;0,029;0,259;Yes;0;100;l
+Corner_full/sensor_corner_huggingface_together_google_gemma-4-31B-it_20260630_15_45_59;TRUE;-135,302790953397;-307,421558972786;1326,781;902,062;-0,469;0,042;0,471;Yes;35;100;l
+Corner_full/sensor_corner_huggingface_together_google_gemma-4-31B-it_20260630_15_48_24;TRUE;-136,23571425004;-307,476578534611;1326,993;902,049;-0,257;0,029;0,259;Yes;0;100;l
+Corner_full/sensor_corner_huggingface_together_google_gemma-4-31B-it_20260630_15_50_41;TRUE;-136,23571425004;-307,476578534611;1326,993;902,049;-0,257;0,029;0,259;Yes;0;100;l
+Corner_full/sensor_corner_huggingface_together_google_gemma-4-31B-it_20260630_15_51_52;TRUE;-136,001443564715;-306,340007482839;1326,94;902,308;-0,31;0,288;0,423;Yes;0;100;l
