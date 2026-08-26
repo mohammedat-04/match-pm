@@ -1,0 +1,187 @@
+Results Summary — New Prompt — Name Only;;;;;;;;;;;
+Model;Total;Detected;Succeeded;Success rate;Many-result runs;;;;;;
+anthropic / claude-sonnet-4-5;10;9;7;70.0%;0;;;;;;
+openai / gpt-5;10;9;3;30.0%;1;;;;;;
+openai / gpt-5-mini;10;6;2;20.0%;1;;;;;;
+;;;;;;;;;;;
+Results Summary — New Prompt — Full Specs;;;;;;;;;;;
+Model;Total;Detected;Succeeded;Success rate;Many-result runs;;;;;;
+anthropic / claude-sonnet-4-5;10;8;8;80.0%;1;;;;;;
+openai / gpt-5;10;10;7;70.0%;5;;;;;;
+openai / gpt-5-mini;10;6;2;20.0%;0;;;;;;
+;;;;;;;;;;;
+Results Summary — New Prompt 1 — Name Only;;;;;;;;;;;
+Model;Total;Detected;Succeeded;Success rate;Many-result runs;;;;;;
+anthropic / claude-sonnet-4-5;10;3;1;10.0%;0;;;;;;
+openai / gpt-5;10;9;5;50.0%;2;;;;;;
+openai / gpt-5-mini;10;10;0;0.0%;0;;;;;;
+;;;;;;;;;;;
+Results Summary — New Prompt 1 — Full Specs;;;;;;;;;;;
+Model;Total;Detected;Succeeded;Success rate;Many-result runs;;;;;;
+anthropic / claude-sonnet-4-5;10;3;0;0.0%;0;;;;;;
+openai / gpt-5;10;10;8;80.0%;2;;;;;;
+openai / gpt-5-mini;10;9;0;0.0%;1;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+Detailed Results — New Prompt — Name Only;;;;;;;;;;;
+anthropic / claude-sonnet-4-5;;;;;;;;;;;
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results;Failure cause
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_56_10;No;-;-;-;-;-;-;No;No;No;No circles found
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_58_02;Yes;2,546;291,72;956,845;1295,42;1038,366;217,682;Yes;Yes;No;
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_58_36;Yes;4,636;289,98;974,106;1294,945;1037,97;221,609;Yes;Yes;No;
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_59_07;Yes;668,437;4376,39;311,616;1143,931;1967,627;70,893;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_00_50;Yes;10,952;297,478;506,876;1293,508;1039,676;115,314;Yes;No;No;Outside ±6 px tolerance: r_px
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_02_05;Yes;5,918;289,021;979,761;1294,653;1037,752;222,895;Yes;Yes;No;
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_02_53;Yes;4,493;290,082;971,686;1294,978;1037,994;221,058;Yes;Yes;No;
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_04_02;Yes;4,299;289,918;968,912;1295,022;1037,956;220,427;Yes;Yes;No;
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_04_30;Yes;4,428;289,973;971,045;1294,992;1037,969;220,912;Yes;Yes;No;
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_05_14;Yes;4,297;289,918;968,898;1295,022;1037,956;220,424;Yes;Yes;No;
+;;;;;;;;;;;
+openai / gpt-5;;;;;;;;;;;
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results;Failure cause
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_openai_gpt-5_20260717_13_08_00;Yes;1007,268;4650,9;870,126;1066,847;2030,078;197,953;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_openai_gpt-5_20260717_13_10_53;Yes;-0,524;173,687;811,164;1296,119;1011,514;184,539;Yes;No;No;Outside ±6 px tolerance: y_px, r_px
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_openai_gpt-5_20260717_13_14_27;Yes;-1,198;163,475;772,653;1296,272;1009,191;175,778;Yes;No;No;Outside ±6 px tolerance: y_px, r_px
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_openai_gpt-5_20260717_13_15_35;Yes;6,048;288,944;980,409;1294,624;1037,735;223,043;Yes;Yes;No;
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_openai_gpt-5_20260717_13_17_36;No;-;-;-;-;-;-;No;No;No;No circles found
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_openai_gpt-5_20260717_13_24_40;Yes;-10,377;236,683;788,21;1298,361;1025,845;179,317;Yes;No;No;Outside ±6 px tolerance: y_px, r_px
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_openai_gpt-5_20260717_13_27_46;Yes;4,287;289,947;969,142;1295,024;1037,963;220,479;Yes;Yes;No;
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_openai_gpt-5_20260717_13_30_24;Yes;7,479;290,685;430,348;1294,298;1038,131;97,904;Yes;No;No;Outside ±6 px tolerance: r_px
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_openai_gpt-5_20260717_13_34_21;Yes;-6,449;215,98;825,179;1297,467;1021,135;187,728;Yes;No;No;Outside ±6 px tolerance: y_px, r_px
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_openai_gpt-5_20260717_13_36_44;Yes;1,456;292,075;956,39;1295,668;1038,447;217,578;Yes;Yes;Yes;
+;;;;;;;;;;;
+openai / gpt-5-mini;;;;;;;;;;;
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results;Failure cause
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_openai_gpt-5-mini_20260717_16_15_37;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_openai_gpt-5-mini_20260717_16_18_18;Yes;6,041;288,912;980,189;1294,625;1037,727;222,993;Yes;Yes;No;
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_openai_gpt-5-mini_20260717_16_20_52;Yes;618,02;1156,807;3086,459;1155,4;1235,173;702,168;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_openai_gpt-5-mini_20260717_16_23_27;Yes;44,076;220,877;1311,319;1285,972;1022,249;298,325;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_openai_gpt-5-mini_20260717_16_25_07;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_openai_gpt-5-mini_20260717_16_26_52;Yes;-64,234;-88,985;714,07;1310,613;951,756;162,451;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_openai_gpt-5-mini_20260717_16_29_11;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_openai_gpt-5-mini_20260717_16_31_07;Yes;1376,82;3549,884;138,063;982,774;1779,598;31,409;Yes;No;Yes;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_openai_gpt-5-mini_20260717_16_32_00;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+old models/vacuum_gripper/new prompt/name_only/vacuum_gripper_openai_gpt-5-mini_20260717_16_33_59;Yes;6,158;288,658;980,696;1294,599;1037,67;223,108;Yes;Yes;No;
+;;;;;;;;;;;
+;;;;;;;;;;;
+Detailed Results — New Prompt — Full Specs;;;;;;;;;;;
+anthropic / claude-sonnet-4-5;;;;;;;;;;;
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results;Failure cause
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_40_03;Yes;4,492;290,185;994,6;1294,978;1038,017;226,271;Yes;Yes;Yes;
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_45_49;Yes;4,494;290,071;971,68;1294,977;1037,991;221,057;Yes;Yes;No;
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_47_24;Yes;4,428;289,974;971,052;1294,992;1037,969;220,914;Yes;Yes;No;
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_48_17;Yes;4,299;289,918;968,912;1295,022;1037,956;220,427;Yes;Yes;No;
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_49_09;Yes;4,428;289,974;971,052;1294,992;1037,969;220,914;Yes;Yes;No;
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_49_46;Yes;4,428;289,974;971,052;1294,992;1037,969;220,914;Yes;Yes;No;
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_50_32;Yes;4,428;289,973;971,045;1294,992;1037,969;220,912;Yes;Yes;No;
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_51_18;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_53_20;No;-;-;-;-;-;-;No;No;No;No circles found
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_09_54_58;Yes;4,301;289,967;968,951;1295,021;1037,967;220,436;Yes;Yes;No;
+;;;;;;;;;;;
+openai / gpt-5;;;;;;;;;;;
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results;Failure cause
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_openai_gpt-5_20260731_12_16_32;Yes;1,504;292,08;957,861;1295,657;1038,448;217,913;Yes;Yes;Yes;
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_openai_gpt-5_20260731_12_18_24;Yes;4,294;290,376;970,58;1295,023;1038,061;220,807;Yes;Yes;No;
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_openai_gpt-5_20260731_12_19_46;Yes;1752,751;331,276;125,772;897,25;1047,365;28,613;Yes;No;Yes;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_openai_gpt-5_20260731_12_23_07;Yes;5,56;286,463;991,165;1294,735;1037,17;225,49;Yes;Yes;No;
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_openai_gpt-5_20260731_12_24_59;Yes;1,458;292,507;958,034;1295,668;1038,545;217,952;Yes;Yes;No;
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_openai_gpt-5_20260731_12_27_33;Yes;-3,069;159,298;771,497;1296,698;1008,24;175,515;Yes;No;No;Outside ±6 px tolerance: y_px, r_px
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_openai_gpt-5_20260731_12_29_09;Yes;1,569;292,153;957,709;1295,643;1038,465;217,878;Yes;Yes;Yes;
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_openai_gpt-5_20260731_12_31_08;Yes;134,189;99,135;751,373;1265,472;994,553;170,937;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_openai_gpt-5_20260731_12_33_04;Yes;2,501;293,101;959,058;1295,431;1038,681;218,185;Yes;Yes;Yes;
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_openai_gpt-5_20260731_12_35_08;Yes;6,774;291,153;956,444;1294,459;1038,237;217,591;Yes;Yes;Yes;
+;;;;;;;;;;;
+openai / gpt-5-mini;;;;;;;;;;;
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results;Failure cause
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_openai_gpt-5-mini_20260717_16_36_14;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_openai_gpt-5-mini_20260717_16_38_13;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_openai_gpt-5-mini_20260717_16_40_43;Yes;-579,98;-255,311;1494,863;1427,945;913,917;340,081;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_openai_gpt-5-mini_20260717_16_43_34;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_openai_gpt-5-mini_20260717_16_45_54;Yes;5,525;286,357;990,021;1294,743;1037,146;225,229;Yes;Yes;No;
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_openai_gpt-5-mini_20260717_16_47_06;Yes;4,306;289,991;969,217;1295,02;1037,973;220,497;Yes;Yes;No;
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_openai_gpt-5-mini_20260717_16_48_57;Yes;27,83;-68,252;1426,054;1289,668;956,473;324,427;Yes;No;No;Outside ±6 px tolerance: y_px, r_px
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_openai_gpt-5-mini_20260717_16_50_07;Yes;-846,666;-1403,914;138,725;1488,616;652,61;31,56;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_openai_gpt-5-mini_20260717_16_52_36;Yes;34,09;200,489;1368,243;1288,244;1017,611;311,275;Yes;No;No;Outside ±6 px tolerance: y_px, r_px
+old models/vacuum_gripper/new prompt/full_specs/vacuum_gripper_openai_gpt-5-mini_20260717_16_55_25;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+;;;;;;;;;;;
+;;;;;;;;;;;
+Detailed Results — New Prompt 1 — Name Only;;;;;;;;;;;
+anthropic / claude-sonnet-4-5;;;;;;;;;;;
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results;Failure cause
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_05_58;No;-;-;-;-;-;-;No;No;No;No circles found
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_07_31;No;-;-;-;-;-;-;No;No;No;No circles found
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_10_02;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_11_33;Yes;-63,803;451,293;3106,52;1310,515;1074,669;706,732;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_12_40;No;-;-;-;-;-;-;No;No;No;No circles found
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_13_56;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_15_00;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_16_43;Yes;-59,432;458,776;3040,983;1309,521;1076,371;691,823;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_17_44;Yes;4,428;289,971;971,043;1294,992;1037,968;220,912;Yes;Yes;No;
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_18_43;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+;;;;;;;;;;;
+openai / gpt-5;;;;;;;;;;;
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results;Failure cause
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_openai_gpt-5_20260717_13_40_06;Yes;602,187;4339,89;205,818;1159,002;1959,324;46,824;Yes;No;Yes;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_openai_gpt-5_20260717_13_41_22;Yes;-141,02;22,246;1164,332;1328,082;977,061;264,885;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_openai_gpt-5_20260717_15_31_10;Yes;5,556;286,387;989,875;1294,736;1037,153;225,196;Yes;Yes;No;
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_openai_gpt-5_20260717_15_35_19;Yes;6,023;289,089;980,24;1294,629;1037,768;223,004;Yes;Yes;No;
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_openai_gpt-5_20260717_15_38_03;Yes;-0,989;298,407;666,767;1296,225;1039,887;151,689;Yes;No;No;Outside ±6 px tolerance: r_px
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_openai_gpt-5_20260717_15_40_47;Yes;6,135;286,456;988,428;1294,604;1037,169;224,867;Yes;Yes;No;
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_openai_gpt-5_20260717_15_42_03;Yes;1743,965;1417,907;260,435;899,248;1294,573;59,249;Yes;No;Yes;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_openai_gpt-5_20260717_15_43_25;Yes;5,513;285,992;989,82;1294,746;1037,063;225,184;Yes;Yes;No;
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_openai_gpt-5_20260717_15_45_36;Yes;6,162;288,62;986,258;1294,598;1037,661;224,373;Yes;Yes;No;
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_openai_gpt-5_20260717_15_47_59;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+;;;;;;;;;;;
+openai / gpt-5-mini;;;;;;;;;;;
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results;Failure cause
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_openai_gpt-5-mini_20260717_15_51_44;Yes;163,147;197,743;3942,168;1258,884;1016,987;896,842;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_openai_gpt-5-mini_20260717_15_54_29;Yes;493,356;1116,901;1024,031;1183,761;1226,095;232,967;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_openai_gpt-5-mini_20260717_15_57_47;Yes;2738,42;3443,578;431,523;673,01;1755,413;98,171;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_openai_gpt-5-mini_20260717_16_00_37;Yes;3361,483;357,444;4590,174;531,263;1053,318;1044,263;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_openai_gpt-5-mini_20260717_16_02_32;Yes;-34,348;422,706;3241,548;1303,814;1068,165;737,451;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_openai_gpt-5-mini_20260717_16_07_16;Yes;1178,112;5719,616;2042,413;1027,98;2273,211;464,648;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_openai_gpt-5-mini_20260717_16_09_24;Yes;4052,487;552,98;4809,386;374,06;1097,803;1094,134;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_openai_gpt-5-mini_20260717_16_10_39;Yes;-396,227;2742,649;865,847;1386,141;1595,952;196,98;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_openai_gpt-5-mini_20260717_16_12_36;Yes;135,807;413,584;2786,726;1265,104;1066,09;633,979;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/name_only/vacuum_gripper_openai_gpt-5-mini_20260717_16_14_07;Yes;116,147;597,428;1611,062;1269,576;1107,915;366,516;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+;;;;;;;;;;;
+;;;;;;;;;;;
+Detailed Results — New Prompt 1 — Full Specs;;;;;;;;;;;
+anthropic / claude-sonnet-4-5;;;;;;;;;;;
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results;Failure cause
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_20_14;Yes;113,247;126,791;3593,254;1270,236;1000,845;817,464;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_23_08;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_24_26;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_25_29;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_27_03;Yes;-49,113;436,63;3216,704;1307,173;1071,333;731,799;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_28_12;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_29_42;Yes;217,379;-92,843;3902,177;1246,546;950,878;887,744;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_31_27;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_33_14;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_anthropic_claude-sonnet-4-5_20260720_10_34_36;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+;;;;;;;;;;;
+openai / gpt-5;;;;;;;;;;;
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results;Failure cause
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_openai_gpt-5_20260731_11_51_09;Yes;740,391;832,459;610,475;1127,561;1161,384;138,883;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_openai_gpt-5_20260731_11_54_18;Yes;4,304;290,361;970,552;1295,021;1038,057;220,8;Yes;Yes;No;
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_openai_gpt-5_20260731_11_56_21;Yes;4,294;290,376;970,58;1295,023;1038,061;220,807;Yes;Yes;No;
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_openai_gpt-5_20260731_11_59_55;Yes;4,422;290,237;969,212;1294,994;1038,029;220,495;Yes;Yes;No;
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_openai_gpt-5_20260731_12_01_46;Yes;4,091;288,351;955,903;1295,069;1037,6;217,468;Yes;Yes;Yes;
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_openai_gpt-5_20260731_12_03_31;Yes;6,061;283,241;950,796;1294,621;1036,437;216,306;Yes;Yes;Yes;
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_openai_gpt-5_20260731_12_05_45;Yes;5,4;289,941;984,834;1294,771;1037,961;224,049;Yes;Yes;No;
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_openai_gpt-5_20260731_12_07_39;Yes;-15,257;479,867;771,261;1299,471;1081,17;175,462;Yes;No;No;Outside ±6 px tolerance: y_px, r_px
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_openai_gpt-5_20260731_12_11_36;Yes;4,294;290,477;976,2;1295,023;1038,084;222,085;Yes;Yes;No;
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_openai_gpt-5_20260731_12_13_17;Yes;2,539;292,766;959,315;1295,422;1038,604;218,244;Yes;Yes;No;
+;;;;;;;;;;;
+openai / gpt-5-mini;;;;;;;;;;;
+File name;vision_ok;x;y;r;x_px;y_px;r_px;Detected;Succeeded;Many results;Failure cause
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_openai_gpt-5-mini_20260717_16_59_03;Yes;-49,38;431,571;3216,001;1307,234;1070,182;731,639;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_openai_gpt-5-mini_20260717_17_02_33;Yes;-38,964;420,223;3238,396;1304,864;1067,601;736,734;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_openai_gpt-5-mini_20260717_17_04_52;Yes;178,879;158,455;2996,175;1255,305;1008,048;681,629;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_openai_gpt-5-mini_20260717_17_08_35;Yes;113,099;289,682;2477,316;1270,27;1037,903;563,588;Yes;No;No;Outside ±6 px tolerance: x_px, r_px
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_openai_gpt-5-mini_20260717_17_13_02;Yes;305,493;242,626;2610,707;1226,5;1027,197;593,935;Yes;No;Yes;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_openai_gpt-5-mini_20260717_17_16_14;Yes;-47,889;437,51;3210,921;1306,894;1071,533;730,483;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_openai_gpt-5-mini_20260717_17_17_57;No;-;-;-;-;-;-;No;No;No;"vision_ok is false; no circle detected"
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_openai_gpt-5-mini_20260717_17_20_34;Yes;-30,756;418,927;3255,62;1302,997;1067,306;740,653;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_openai_gpt-5-mini_20260717_17_23_04;Yes;691,098;-334,708;4507,967;1138,775;895,854;1025,561;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px
+old models/vacuum_gripper/new prompt 1/full_specs/vacuum_gripper_openai_gpt-5-mini_20260717_17_25_30;Yes;114,852;262,792;3340,914;1269,871;1031,785;760,057;Yes;No;No;Outside ±6 px tolerance: x_px, y_px, r_px

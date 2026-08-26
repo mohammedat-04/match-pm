@@ -94,11 +94,14 @@ def vacuum_record(result: workbook.ParsedResult, data: dict) -> dict:
     if succeeded:
         failure_cause = ""
     elif not selected:
-        failure_cause = debug_reason(data) or (
-            "vision_ok is false; no circle detected"
-            if result.vision_ok is False
-            else "No circle detected"
-        )
+        if data.get("_missing_json"):
+            failure_cause = "Missing vision_results.json"
+        else:
+            failure_cause = debug_reason(data) or (
+                "vision_ok is false; no circle detected"
+                if result.vision_ok is False
+                else "No circle detected"
+            )
     else:
         deltas = [
             abs(selected[index] - VACUUM_REFERENCE[index - 1])
@@ -158,11 +161,14 @@ def corner_record(result: workbook.ParsedResult, data: dict) -> dict:
     else:
         x_px = y_px = dx_px = dy_px = error_px = None
         succeeded = False
-        failure_cause = debug_reason(data) or (
-            "vision_ok is false; no point detected"
-            if result.vision_ok is False
-            else "No point detected"
-        )
+        if data.get("_missing_json"):
+            failure_cause = "Missing vision_results.json"
+        else:
+            failure_cause = debug_reason(data) or (
+                "vision_ok is false; no point detected"
+                if result.vision_ok is False
+                else "No point detected"
+            )
 
     quality = data.get("quality_score", {}).get("cornerDetectionSubPixel", {}) or {}
     return {
@@ -309,6 +315,32 @@ def build_sheet(results, source_data, group: str, target: str):
     return rows
 
 
+def collect_run_results(calibration: workbook.Calibration):
+    """Collect JSON results and add failed rows for run folders without JSON."""
+    results = workbook.collect_results(ROOT, calibration)
+    known_run_folders = {result.path.parent for result in results}
+
+    for group in ("old models", "new models"):
+        for target, depth in (("vacuum_gripper", 3), ("corner", 2)):
+            target_folder = ROOT / group / target
+            if not target_folder.is_dir():
+                continue
+            pattern = "/".join("*" for _ in range(depth))
+            for run_folder in sorted(target_folder.glob(pattern)):
+                if not run_folder.is_dir():
+                    continue
+                relative_folder = run_folder.relative_to(ROOT)
+                if relative_folder in known_run_folders:
+                    continue
+                metadata = workbook.parse_run_metadata(run_folder.name)
+                missing = workbook.missing_result(group, run_folder.name, metadata)
+                missing.path = relative_folder / "vision_results.json"
+                results.append(missing)
+                known_run_folders.add(relative_folder)
+
+    return sorted(results, key=lambda result: str(result.path))
+
+
 def main() -> None:
     calibration = workbook.Calibration(
         SCALE,
@@ -318,9 +350,13 @@ def main() -> None:
         TOLERANCE,
         TOLERANCE,
     )
-    results = workbook.collect_results(ROOT, calibration)
+    results = collect_run_results(calibration)
     source_data = {
-        result.path: json.loads((ROOT / result.path).read_text(encoding="utf-8"))
+        result.path: (
+            json.loads((ROOT / result.path).read_text(encoding="utf-8"))
+            if (ROOT / result.path).is_file()
+            else {"_missing_json": True}
+        )
         for result in results
     }
     sheets = [

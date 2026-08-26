@@ -1,0 +1,110 @@
+Results Summary — Original Prompt — Name Only;;;;;;;;;;;;;
+Model;Total;Detected;Succeeded;Success rate;Many-result runs;;;;;;;;
+auto / google gemma-4-31B-it;10;9;9;90.0%;0;;;;;;;;
+auto / Qwen Qwen3.6-35B-A3B;10;10;10;100.0%;0;;;;;;;;
+;;;;;;;;;;;;;
+Results Summary — Original Prompt — Full Specs;;;;;;;;;;;;;
+Model;Total;Detected;Succeeded;Success rate;Many-result runs;;;;;;;;
+auto(deepinfra) / Qwen Qwen3.6-35B-A3B;10;10;10;100.0%;0;;;;;;;;
+deepinfra / meta-llama Llama-4-Scout-17B-16E-Instruct;10;10;10;100.0%;0;;;;;;;;
+featherless-ai / stepfun-ai Step-3.7-Flash;10;9;8;80.0%;0;;;;;;;;
+novita / MiniMaxAI MiniMax-M3;10;9;9;90.0%;0;;;;;;;;
+together / google gemma-4-31B-it;10;10;10;100.0%;0;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+Detailed Results — Original Prompt — Name Only;;;;;;;;;;;;;
+auto / google gemma-4-31B-it;;;;;;;;;;;;;
+File name;vision_ok;x;y;x_px;y_px;dx_px;dy_px;error_px;Succeeded;residual_score;inlier_score;action;Failure cause
+new models/corner/Corner_name_only/sensor_corner_huggingface_auto_google_gemma-4-31B-it_20260825_11_24_56;Yes;-136,437;-307,932;1327,039;901,946;-0,211;-0,074;0,223;Yes;0;100;l;
+new models/corner/Corner_name_only/sensor_corner_huggingface_auto_google_gemma-4-31B-it_20260825_11_26_08;Yes;-136,437;-307,932;1327,039;901,946;-0,211;-0,074;0,223;Yes;0;100;l;
+new models/corner/Corner_name_only/sensor_corner_huggingface_auto_google_gemma-4-31B-it_20260825_11_27_04;Yes;-;-;-;-;-;-;-;No;-;-;-;No point detected
+new models/corner/Corner_name_only/sensor_corner_huggingface_auto_google_gemma-4-31B-it_20260825_11_27_37;Yes;-136,437;-307,932;1327,039;901,946;-0,211;-0,074;0,223;Yes;0;100;l;
+new models/corner/Corner_name_only/sensor_corner_huggingface_auto_google_gemma-4-31B-it_20260825_11_28_04;Yes;-136,437;-307,932;1327,039;901,946;-0,211;-0,074;0,223;Yes;0;100;l;
+new models/corner/Corner_name_only/sensor_corner_huggingface_auto_google_gemma-4-31B-it_20260825_11_28_38;Yes;-136,437;-307,932;1327,039;901,946;-0,211;-0,074;0,223;Yes;0;100;l;
+new models/corner/Corner_name_only/sensor_corner_huggingface_auto_google_gemma-4-31B-it_20260825_11_28_51;Yes;-136,437;-307,932;1327,039;901,946;-0,211;-0,074;0,223;Yes;0;100;l;
+new models/corner/Corner_name_only/sensor_corner_huggingface_auto_google_gemma-4-31B-it_20260825_11_29_08;Yes;-136,437;-307,932;1327,039;901,946;-0,211;-0,074;0,223;Yes;0;100;l;
+new models/corner/Corner_name_only/sensor_corner_huggingface_auto_google_gemma-4-31B-it_20260825_11_29_22;Yes;-136,437;-307,932;1327,039;901,946;-0,211;-0,074;0,223;Yes;0;100;l;
+new models/corner/Corner_name_only/sensor_corner_huggingface_auto_google_gemma-4-31B-it_20260825_11_29_35;Yes;-136,437;-307,932;1327,039;901,946;-0,211;-0,074;0,223;Yes;0;100;l;
+;;;;;;;;;;;;;
+auto / Qwen Qwen3.6-35B-A3B;;;;;;;;;;;;;
+File name;vision_ok;x;y;x_px;y_px;dx_px;dy_px;error_px;Succeeded;residual_score;inlier_score;action;Failure cause
+new models/corner/Corner_name_only/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260825_11_30_13;Yes;-137,115;-302,372;1327,194;903,211;-0,056;1,191;1,192;Yes;44;45;s;
+new models/corner/Corner_name_only/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260825_11_32_52;Yes;-136,437;-307,957;1327,039;901,94;-0,211;-0,08;0,225;Yes;0;100;s;
+new models/corner/Corner_name_only/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260825_11_34_27;Yes;-138,753;-299,669;1327,566;903,825;0,316;1,805;1,833;Yes;33;54;s;
+new models/corner/Corner_name_only/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260825_11_36_49;Yes;-136,437;-307,957;1327,039;901,94;-0,211;-0,08;0,225;Yes;0;100;s;
+new models/corner/Corner_name_only/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260825_11_39_00;Yes;-133,697;-309,613;1326,416;901,563;-0,834;-0,457;0,951;Yes;0;100;s;
+new models/corner/Corner_name_only/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260825_11_43_20;Yes;-138,748;-307,836;1327,565;901,967;0,315;-0,053;0,32;Yes;37;74;s;
+new models/corner/Corner_name_only/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260825_11_45_13;Yes;-134,264;-310,343;1326,545;901,397;-0,705;-0,623;0,941;Yes;92;100;s;
+new models/corner/Corner_name_only/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260825_11_48_15;Yes;-133,746;-309,552;1326,427;901,577;-0,823;-0,443;0,935;Yes;0;100;s;
+new models/corner/Corner_name_only/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260825_11_49_50;Yes;-135,694;-307,932;1326,87;901,946;-0,38;-0,074;0,387;Yes;0;100;l;
+new models/corner/Corner_name_only/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260825_11_53_07;Yes;-158,424;-304,616;1332,041;902,7;4,791;0,68;4,84;Yes;41;13;t;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+Detailed Results — Original Prompt — Full Specs;;;;;;;;;;;;;
+auto / Qwen Qwen3.6-35B-A3B;;;;;;;;;;;;;
+File name;vision_ok;x;y;x_px;y_px;dx_px;dy_px;error_px;Succeeded;residual_score;inlier_score;action;Failure cause
+new models/corner/Corner_full/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260630_14_55_33;Yes;-158,19;-304,166;1331,988;902,802;4,738;0,782;4,802;Yes;41;13;t;
+new models/corner/Corner_full/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260630_14_58_54;Yes;-138,548;-299,226;1327,52;903,926;0,27;1,906;1,925;Yes;33;54;s;
+new models/corner/Corner_full/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260630_15_02_12;Yes;-136,245;-301,389;1326,996;903,434;-0,254;1,414;1,437;Yes;0;100;s;
+new models/corner/Corner_full/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260630_15_05_06;Yes;-138,556;-286,156;1327,521;906,9;0,271;4,88;4,887;Yes;47;36;t;
+new models/corner/Corner_full/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260630_15_11_06;Yes;-136,264;-288,126;1327;906,451;-0,25;4,431;4,438;Yes;0;100;s;
+new models/corner/Corner_full/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260630_15_16_56;Yes;-136,236;-307,306;1326,994;902,088;-0,256;0,068;0,265;Yes;2;100;s;
+new models/corner/Corner_full/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260630_15_18_54;Yes;-138,543;-307,422;1327,519;902,062;0,269;0,042;0,272;Yes;35;100;l;
+new models/corner/Corner_full/sensor_corner_huggingface_auto_Qwen_Qwen3.6-35B-A3B_20260630_15_23_26;Yes;-133,615;-307,284;1326,397;902,093;-0,853;0,073;0,856;Yes;0;100;s;
+;;;;;;;;;;;;;
+deepinfra / meta-llama Llama-4-Scout-17B-16E-Instruct;;;;;;;;;;;;;
+File name;vision_ok;x;y;x_px;y_px;dx_px;dy_px;error_px;Succeeded;residual_score;inlier_score;action;Failure cause
+new models/corner/Corner_full/sensor_corner_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_02_28;Yes;-136,236;-307,477;1326,994;902,049;-0,256;0,029;0,258;Yes;0;100;l;
+new models/corner/Corner_full/sensor_corner_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_03_30;Yes;-136,236;-307,477;1326,994;902,049;-0,256;0,029;0,258;Yes;0;100;l;
+new models/corner/Corner_full/sensor_corner_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_04_30;Yes;-136,236;-307,477;1326,994;902,049;-0,256;0,029;0,258;Yes;0;100;l;
+new models/corner/Corner_full/sensor_corner_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_05_01;Yes;-133,548;-309,094;1326,382;901,681;-0,868;-0,339;0,932;Yes;0;100;s;
+new models/corner/Corner_full/sensor_corner_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_05_57;Yes;-133,575;-309,155;1326,388;901,667;-0,862;-0,353;0,931;Yes;0;100;l;
+new models/corner/Corner_full/sensor_corner_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_06_21;Yes;-136,236;-307,477;1326,994;902,049;-0,256;0,029;0,258;Yes;0;100;l;
+new models/corner/Corner_full/sensor_corner_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_06_50;Yes;-136,236;-307,477;1326,994;902,049;-0,256;0,029;0,258;Yes;0;100;l;
+new models/corner/Corner_full/sensor_corner_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_07_12;Yes;-136,236;-307,477;1326,994;902,049;-0,256;0,029;0,258;Yes;0;100;l;
+new models/corner/Corner_full/sensor_corner_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_07_33;Yes;-157,786;-307,48;1331,896;902,048;4,646;0,028;4,646;Yes;0;24;l;
+new models/corner/Corner_full/sensor_corner_huggingface_deepinfra_meta-llama_Llama-4-Scout-17B-16E-Instruct_20260630_17_07_54;Yes;-136,236;-307,477;1326,994;902,049;-0,256;0,029;0,258;Yes;0;100;l;
+;;;;;;;;;;;;;
+deepinfra / Qwen Qwen3.6-35B-A3B;;;;;;;;;;;;;
+File name;vision_ok;x;y;x_px;y_px;dx_px;dy_px;error_px;Succeeded;residual_score;inlier_score;action;Failure cause
+new models/corner/Corner_full/sensor_corner_huggingface_deepinfra_Qwen_Qwen3.6-35B-A3B_20260630_13_45_42;Yes;-138,548;-299,226;1327,52;903,926;0,27;1,906;1,925;Yes;33;54;s;
+new models/corner/Corner_full/sensor_corner_huggingface_deepinfra_Qwen_Qwen3.6-35B-A3B_20260630_14_49_50;Yes;-136,909;-310,138;1327,147;901,444;-0,103;-0,576;0,586;Yes;60;100;s;
+;;;;;;;;;;;;;
+featherless-ai / stepfun-ai Step-3.7-Flash;;;;;;;;;;;;;
+File name;vision_ok;x;y;x_px;y_px;dx_px;dy_px;error_px;Succeeded;residual_score;inlier_score;action;Failure cause
+new models/corner/Corner_full/sensor_corner_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_26_11;Yes;-141,418;-300,116;1328,172;903,724;0,922;1,704;1,937;Yes;0;95;s;
+new models/corner/Corner_full/sensor_corner_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_28_34;Yes;-128,627;-313,916;1325,263;900,584;-1,987;-1,436;2,452;Yes;0;100;s;
+new models/corner/Corner_full/sensor_corner_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_30_26;Yes;-136,245;-301,389;1326,996;903,434;-0,254;1,414;1,437;Yes;0;100;s;
+new models/corner/Corner_full/sensor_corner_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_33_50;Yes;-136,269;-284,39;1327,001;907,301;-0,249;5,281;5,287;Yes;0;93;s;
+new models/corner/Corner_full/sensor_corner_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_35_22;Yes;-136,111;-309,49;1326,965;901,591;-0,285;-0,429;0,515;Yes;0;100;l;
+new models/corner/Corner_full/sensor_corner_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_37_43;Yes;-135,571;-307,422;1326,842;902,062;-0,408;0,042;0,41;Yes;35;100;s;
+new models/corner/Corner_full/sensor_corner_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_39_35;Yes;-136,264;-288,126;1327;906,451;-0,25;4,431;4,438;Yes;0;100;s;
+new models/corner/Corner_full/sensor_corner_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_42_15;Yes;-136,245;-301,389;1326,996;903,434;-0,254;1,414;1,437;Yes;0;100;s;
+new models/corner/Corner_full/sensor_corner_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_45_58;No;-;-;-;-;-;-;-;No;-;-;-;Missing vision_results.json
+new models/corner/Corner_full/sensor_corner_huggingface_featherless-ai_stepfun-ai_Step-3.7-Flash_20260703_12_50_01;Yes;-1932,786;204,592;1735,708;1018,545;408,458;116,525;424,754;No;0;54;s;Pixel error 424.754 exceeds 6 px tolerance
+;;;;;;;;;;;;;
+novita / MiniMaxAI MiniMax-M3;;;;;;;;;;;;;
+File name;vision_ok;x;y;x_px;y_px;dx_px;dy_px;error_px;Succeeded;residual_score;inlier_score;action;Failure cause
+new models/corner/Corner_full/sensor_corner_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_08_51;Yes;-136,264;-288,126;1327;906,451;-0,25;4,431;4,438;Yes;0;100;s;
+new models/corner/Corner_full/sensor_corner_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_10_49;Yes;-138,543;-307,422;1327,519;902,062;0,269;0,042;0,272;Yes;35;100;s;
+new models/corner/Corner_full/sensor_corner_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_12_03;Yes;-136,113;-307,477;1326,966;902,049;-0,284;0,029;0,286;Yes;0;100;s;
+new models/corner/Corner_full/sensor_corner_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_14_13;Yes;-136,281;-306,34;1327,004;902,308;-0,246;0,288;0,379;Yes;0;100;l;
+new models/corner/Corner_full/sensor_corner_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_16_06;Yes;-136,237;-306,34;1326,994;902,308;-0,256;0,288;0,385;Yes;0;100;l;
+new models/corner/Corner_full/sensor_corner_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_19_31;No;-;-;-;-;-;-;-;No;-;-;-;"Error: No lines detected; Error: No line for input 2 detected"
+new models/corner/Corner_full/sensor_corner_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_21_43;Yes;-138,543;-307,422;1327,519;902,062;0,269;0,042;0,272;Yes;35;100;l;
+new models/corner/Corner_full/sensor_corner_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_27_18;Yes;-136,113;-307,477;1326,966;902,049;-0,284;0,029;0,286;Yes;0;100;l;
+new models/corner/Corner_full/sensor_corner_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_28_49;Yes;-138,543;-307,422;1327,519;902,062;0,269;0,042;0,272;Yes;35;100;s;
+new models/corner/Corner_full/sensor_corner_huggingface_novita_MiniMaxAI_MiniMax-M3_20260703_11_29_53;Yes;-136,236;-307,477;1326,994;902,049;-0,256;0,029;0,258;Yes;0;100;s;
+;;;;;;;;;;;;;
+together / google gemma-4-31B-it;;;;;;;;;;;;;
+File name;vision_ok;x;y;x_px;y_px;dx_px;dy_px;error_px;Succeeded;residual_score;inlier_score;action;Failure cause
+new models/corner/Corner_full/sensor_corner_huggingface_together_google_gemma-4-31B-it_20260630_15_28_44;Yes;-136,281;-306,34;1327,004;902,308;-0,246;0,288;0,379;Yes;0;100;l;
+new models/corner/Corner_full/sensor_corner_huggingface_together_google_gemma-4-31B-it_20260630_15_31_01;Yes;-136,113;-307,477;1326,966;902,049;-0,284;0,029;0,286;Yes;0;100;l;
+new models/corner/Corner_full/sensor_corner_huggingface_together_google_gemma-4-31B-it_20260630_15_32_25;Yes;-136,113;-307,477;1326,966;902,049;-0,284;0,029;0,286;Yes;0;100;l;
+new models/corner/Corner_full/sensor_corner_huggingface_together_google_gemma-4-31B-it_20260630_15_38_00;Yes;-136,236;-307,477;1326,994;902,049;-0,256;0,029;0,258;Yes;0;100;l;
+new models/corner/Corner_full/sensor_corner_huggingface_together_google_gemma-4-31B-it_20260630_15_39_58;Yes;-136,236;-307,477;1326,994;902,049;-0,256;0,029;0,258;Yes;0;100;s;
+new models/corner/Corner_full/sensor_corner_huggingface_together_google_gemma-4-31B-it_20260630_15_44_32;Yes;-136,236;-307,477;1326,994;902,049;-0,256;0,029;0,258;Yes;0;100;l;
+new models/corner/Corner_full/sensor_corner_huggingface_together_google_gemma-4-31B-it_20260630_15_45_59;Yes;-135,303;-307,422;1326,781;902,062;-0,469;0,042;0,471;Yes;35;100;l;
+new models/corner/Corner_full/sensor_corner_huggingface_together_google_gemma-4-31B-it_20260630_15_48_24;Yes;-136,236;-307,477;1326,994;902,049;-0,256;0,029;0,258;Yes;0;100;l;
+new models/corner/Corner_full/sensor_corner_huggingface_together_google_gemma-4-31B-it_20260630_15_50_41;Yes;-136,236;-307,477;1326,994;902,049;-0,256;0,029;0,258;Yes;0;100;l;
+new models/corner/Corner_full/sensor_corner_huggingface_together_google_gemma-4-31B-it_20260630_15_51_52;Yes;-136,001;-306,34;1326,94;902,308;-0,31;0,288;0,423;Yes;0;100;l;
