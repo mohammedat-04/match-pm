@@ -1,0 +1,14 @@
+{
+    "vision_result": "pm_vision_interfaces.msg.VisionResponse(vision_ok=True, process_name='sensor_corner_openai_gpt-5-mini_20260826_15_00_44.json', process_uid='CoPilotVision', exec_timestamp='26_08_2026_15_01_23', cross_validation=pm_vision_interfaces.msg.CrossValidation(image_source_name='', vision_ok=False, failed_images=[], numb_images=0, counter_error=0), results=pm_vision_interfaces.msg.VisionResults(points=[pm_vision_interfaces.msg.VisionPoint(axis_value_1=-4293.476466550126, axis_value_2=-492.3288333122768, axis_suffix_1='x', axis_suffix_2='y')], lines=[], areas=[], circles=[], saved_images=[], image_sharpness=pm_vision_interfaces.msg.ImageSharpness(sharpness_value=0.0)))",
+    "quality_score": {
+        "cornerDetectionSubPixel": {
+            "line1": 10,
+            "line2": 2,
+            "residual_score": 0,
+            "inlier_score": 10,
+            "weakest_score_action": "l",
+            "angle_degrees": 118
+        }
+    },
+    "process_debug": []
+}

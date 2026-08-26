@@ -1,0 +1,8 @@
+{
+    "vision_result": "pm_vision_interfaces.msg.VisionResponse(vision_ok=False, process_name='sensor_corner_openai_gpt-5_20260826_14_52_53.json', process_uid='CoPilotVision', exec_timestamp='26_08_2026_14_53_49', cross_validation=pm_vision_interfaces.msg.CrossValidation(image_source_name='', vision_ok=False, failed_images=[], numb_images=0, counter_error=0), results=pm_vision_interfaces.msg.VisionResults(points=[], lines=[], areas=[], circles=[], saved_images=[], image_sharpness=pm_vision_interfaces.msg.ImageSharpness(sharpness_value=0.0)))",
+    "quality_score": {},
+    "process_debug": [
+        "Error: No lines detected. Hough lines found no lines",
+        "Error: No line for input 1 detected"
+    ]
+}
