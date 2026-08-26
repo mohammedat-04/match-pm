@@ -765,6 +765,7 @@ def compact_group(group: str) -> str:
     normalized = group.replace("_", " ").strip().lower()
     replacements = {
         "corner full": "Corner",
+        "corner name only": "CornerName",
         "full specs": "Full",
         "name only": "Name",
         "namee only": "Namee",
@@ -923,13 +924,33 @@ def worksheet_xml(rows: list[list[Any]]) -> str:
     for row_index, row in enumerate(rows, start=1):
         xml.append(f'<row r="{row_index}">')
         for col_index, value in enumerate(row, start=1):
-            style = 1 if row_index == 1 else 2 if row_index == 2 else 0
+            is_table_header = bool(row) and row[0] in {"File name", "Model"}
+            next_is_table_header = (
+                row_index < len(rows)
+                and bool(rows[row_index])
+                and rows[row_index][0] in {"File name", "Model"}
+            )
+            is_section_title = sum(value not in (None, "") for value in row) == 1
+            style = (
+                2
+                if is_table_header
+                else 1
+                if row_index == 1 or next_is_table_header or is_section_title
+                else 0
+            )
             xml.append(cell_xml(row_index, col_index, value, style))
         xml.append("</row>")
 
     xml.extend(["</sheetData>"])
-    if len(rows) > 2 and max_cols > 1:
-        xml.append(f'<autoFilter ref="A2:{column_name(max_cols)}{max_rows}"/>')
+    header_rows = [
+        index
+        for index, row in enumerate(rows, start=1)
+        if row and row[0] in {"File name", "Model"}
+    ]
+    if len(header_rows) == 1 and max_rows > header_rows[0] and max_cols > 1:
+        xml.append(
+            f'<autoFilter ref="A{header_rows[0]}:{column_name(max_cols)}{max_rows}"/>'
+        )
     xml.append("</worksheet>")
     return "".join(xml)
 
