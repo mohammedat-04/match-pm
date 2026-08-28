@@ -1,0 +1,32 @@
+Results Summary — Original Prompt — Name Only;;;;;;;;;;;;;
+Model;Total;Detected;Succeeded;Success rate;Many-result runs;;;;;;;;
+openai / gpt-5;10;7;7;70.0%;0;;;;;;;;
+openai / gpt-5-mini;10;9;3;30.0%;0;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+Detailed Results — Original Prompt — Name Only;;;;;;;;;;;;;
+openai / gpt-5;;;;;;;;;;;;;
+File name;vision_ok;x;y;x_px;y_px;dx_px;dy_px;error_px;Succeeded;residual_score;inlier_score;action;Failure cause
+new models/corner/old models/name_only/sensor_corner_openai_gpt-5_20260826_14_34_06;Yes;-136,511;-288,261;1327,056;906,421;-0,194;4,401;4,405;Yes;0;100;s;
+new models/corner/old models/name_only/sensor_corner_openai_gpt-5_20260826_14_35_46;Yes;-136,294;-301,938;1327,007;903,309;-0,243;1,289;1,312;Yes;0;100;s;
+new models/corner/old models/name_only/sensor_corner_openai_gpt-5_20260826_14_37_30;Yes;-138,756;-295,636;1327,567;904,743;0,317;2,723;2,741;Yes;46;45;t;
+new models/corner/old models/name_only/sensor_corner_openai_gpt-5_20260826_14_39_26;Yes;-138,748;-307,877;1327,565;901,958;0,315;-0,062;0,321;Yes;35;100;s;
+new models/corner/old models/name_only/sensor_corner_openai_gpt-5_20260826_14_41_24;Yes;-138,748;-307,877;1327,565;901,958;0,315;-0,062;0,321;Yes;35;100;s;
+new models/corner/old models/name_only/sensor_corner_openai_gpt-5_20260826_14_43_21;Yes;-136,484;-305,768;1327,05;902,438;-0,2;0,418;0,463;Yes;0;100;l;
+new models/corner/old models/name_only/sensor_corner_openai_gpt-5_20260826_14_44_51;No;-;-;-;-;-;-;-;No;-;-;-;"Error: No lines detected; Error: No line for input 2 detected"
+new models/corner/old models/name_only/sensor_corner_openai_gpt-5_20260826_14_48_16;No;-;-;-;-;-;-;-;No;-;-;-;"Error: No lines detected. Hough lines found no lines; Error: No line for input 1 detected"
+new models/corner/old models/name_only/sensor_corner_openai_gpt-5_20260826_14_51_20;Yes;-138,748;-307,877;1327,565;901,958;0,315;-0,062;0,321;Yes;35;100;s;
+new models/corner/old models/name_only/sensor_corner_openai_gpt-5_20260826_14_52_53;No;-;-;-;-;-;-;-;No;-;-;-;"Error: No lines detected. Hough lines found no lines; Error: No line for input 1 detected"
+;;;;;;;;;;;;;
+openai / gpt-5-mini;;;;;;;;;;;;;
+File name;vision_ok;x;y;x_px;y_px;dx_px;dy_px;error_px;Succeeded;residual_score;inlier_score;action;Failure cause
+new models/corner/old models/name_only/sensor_corner_openai_gpt-5-mini_20260826_14_56_02;No;-;-;-;-;-;-;-;No;-;-;-;"vision_ok is false; no point detected"
+new models/corner/old models/name_only/sensor_corner_openai_gpt-5-mini_20260826_14_57_45;Yes;-136,454;-296,519;1327,043;904,542;-0,207;2,522;2,53;Yes;0;100;s;
+new models/corner/old models/name_only/sensor_corner_openai_gpt-5-mini_20260826_14_58_51;Yes;-4293,88;-305,329;2272,856;902,538;945,606;0,518;945,606;No;0;10;l;Pixel error 945.606 exceeds 6 px tolerance
+new models/corner/old models/name_only/sensor_corner_openai_gpt-5-mini_20260826_14_59_47;Yes;-138,75;-304,618;1327,566;902,7;0,316;0,68;0,749;Yes;41;100;s;
+new models/corner/old models/name_only/sensor_corner_openai_gpt-5-mini_20260826_15_00_44;Yes;-4293,476;-492,329;2272,764;859,995;945,514;-42,025;946,448;No;0;10;l;Pixel error 946.448 exceeds 6 px tolerance
+new models/corner/old models/name_only/sensor_corner_openai_gpt-5-mini_20260826_15_01_48;Yes;-4256,163;-267,329;2264,276;911,183;937,026;9,163;937,07;No;0;7;l;Pixel error 937.070 exceeds 6 px tolerance
+new models/corner/old models/name_only/sensor_corner_openai_gpt-5-mini_20260826_15_02_47;Yes;-4459,418;2305,968;2310,516;1496,607;983,266;594,587;1149,063;No;60;25;l;Pixel error 1149.063 exceeds 6 px tolerance
+new models/corner/old models/name_only/sensor_corner_openai_gpt-5-mini_20260826_15_03_42;Yes;-136,465;-288,552;1327,046;906,354;-0,204;4,334;4,339;Yes;0;100;s;
+new models/corner/old models/name_only/sensor_corner_openai_gpt-5-mini_20260826_15_05_14;Yes;2056,289;810,228;828,195;1156,327;-499,055;254,307;560,114;No;0;100;l;Pixel error 560.114 exceeds 6 px tolerance
+new models/corner/old models/name_only/sensor_corner_openai_gpt-5-mini_20260826_15_08_24;Yes;-4459,418;2305,968;2310,516;1496,607;983,266;594,587;1149,063;No;60;25;l;Pixel error 1149.063 exceeds 6 px tolerance

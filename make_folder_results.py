@@ -52,10 +52,17 @@ def experiment_group(result: workbook.ParsedResult) -> tuple[str, str]:
     if len(result.path.parts) < 3:
         return "Original Prompt", "Unknown"
 
-    experiment_folder = result.path.parts[2].lower().replace("-", "_")
+    experiment_folder = (
+        result.path.parts[2].lower().replace("-", "_").replace(" ", "_")
+    )
     if result.path.parts[1] == "corner":
         prompt = "Original Prompt"
-        specification = "Name Only" if "name" in experiment_folder else "Full Specs"
+        specification_folder = (
+            result.path.parts[3].lower()
+            if experiment_folder == "old_models" and len(result.path.parts) > 3
+            else experiment_folder
+        )
+        specification = "Name Only" if "name" in specification_folder else "Full Specs"
         return prompt, specification
 
     normalized_prompt = experiment_folder.replace(" ", "_")
@@ -197,8 +204,14 @@ def corner_record(result: workbook.ParsedResult, data: dict) -> dict:
 def build_sheet(results, source_data, group: str, target: str):
     grouped = defaultdict(list)
     for result in results:
+        logical_group = (
+            "old models"
+            if len(result.path.parts) > 2
+            and result.path.parts[:3] == ("new models", "corner", "old models")
+            else result.group
+        )
         if (
-            result.group == group
+            logical_group == group
             and len(result.path.parts) > 1
             and result.path.parts[1] == target
         ):
@@ -320,23 +333,28 @@ def collect_run_results(calibration: workbook.Calibration):
     results = workbook.collect_results(ROOT, calibration)
     known_run_folders = {result.path.parent for result in results}
 
-    for group in ("old models", "new models"):
-        for target, depth in (("vacuum_gripper", 3), ("corner", 2)):
-            target_folder = ROOT / group / target
-            if not target_folder.is_dir():
+    run_patterns = [
+        ("old models", "vacuum_gripper", "*/*/*"),
+        ("old models", "corner", "*/*"),
+        ("new models", "vacuum_gripper", "*/*/*"),
+        ("new models", "corner", "Corner_*/*"),
+        ("new models", "corner", "old models/*/*"),
+    ]
+    for group, target, pattern in run_patterns:
+        target_folder = ROOT / group / target
+        if not target_folder.is_dir():
+            continue
+        for run_folder in sorted(target_folder.glob(pattern)):
+            if not run_folder.is_dir():
                 continue
-            pattern = "/".join("*" for _ in range(depth))
-            for run_folder in sorted(target_folder.glob(pattern)):
-                if not run_folder.is_dir():
-                    continue
-                relative_folder = run_folder.relative_to(ROOT)
-                if relative_folder in known_run_folders:
-                    continue
-                metadata = workbook.parse_run_metadata(run_folder.name)
-                missing = workbook.missing_result(group, run_folder.name, metadata)
-                missing.path = relative_folder / "vision_results.json"
-                results.append(missing)
-                known_run_folders.add(relative_folder)
+            relative_folder = run_folder.relative_to(ROOT)
+            if relative_folder in known_run_folders:
+                continue
+            metadata = workbook.parse_run_metadata(run_folder.name)
+            missing = workbook.missing_result(group, run_folder.name, metadata)
+            missing.path = relative_folder / "vision_results.json"
+            results.append(missing)
+            known_run_folders.add(relative_folder)
 
     return sorted(results, key=lambda result: str(result.path))
 
