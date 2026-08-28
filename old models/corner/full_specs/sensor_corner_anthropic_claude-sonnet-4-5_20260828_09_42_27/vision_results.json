@@ -1,0 +1,14 @@
+{
+    "vision_result": "pm_vision_interfaces.msg.VisionResponse(vision_ok=True, process_name='sensor_corner_anthropic_claude-sonnet-4-5_20260828_09_42_27.json', process_uid='CoPilotVision', exec_timestamp='28_08_2026_09_43_02', cross_validation=pm_vision_interfaces.msg.CrossValidation(image_source_name='', vision_ok=False, failed_images=[], numb_images=0, counter_error=0), results=pm_vision_interfaces.msg.VisionResults(points=[pm_vision_interfaces.msg.VisionPoint(axis_value_1=-134.26434461433786, axis_value_2=-310.59716410473465, axis_suffix_1='x', axis_suffix_2='y')], lines=[], areas=[], circles=[], saved_images=[], image_sharpness=pm_vision_interfaces.msg.ImageSharpness(sharpness_value=0.0)))",
+    "quality_score": {
+        "cornerDetectionSubPixel": {
+            "line1": 1,
+            "line2": 2,
+            "residual_score": 60,
+            "inlier_score": 100,
+            "weakest_score_action": "s",
+            "angle_degrees": 90
+        }
+    },
+    "process_debug": []
+}
